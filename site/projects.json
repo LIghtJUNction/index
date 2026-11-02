@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-02T10:55:37.758668+00:00",
+  "synced_at": "2026-11-02T10:56:58.547789+00:00",
   "projects": [
     {
       "name": "2048",
@@ -1100,6 +1100,17 @@
       "topics": []
     },
     {
+      "name": "index",
+      "url": "https://github.com/LIghtJUNction/index",
+      "description": "自动更新的 GitHub 项目索引 · Searchable project directory",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T10:56:21Z",
+      "topics": []
+    },
+    {
       "name": "intelligent",
       "url": "https://github.com/LIghtJUNction/intelligent",
       "description": "Intelligently classify files and clear empty folders",
@@ -2154,7 +2165,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T10:48:09Z",
+      "updated": "2026-11-02T10:56:34Z",
       "topics": []
     },
     {
