@@ -1,0 +1,2442 @@
+{
+  "owner": "LIghtJUNction",
+  "synced_at": "2026-11-02T10:55:37.758668+00:00",
+  "projects": [
+    {
+      "name": "2048",
+      "url": "https://github.com/LIghtJUNction/2048",
+      "description": "The source code for 2048 ",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2024-10-24T13:06:19Z",
+      "topics": []
+    },
+    {
+      "name": "ace2-kernelsu-susfs",
+      "url": "https://github.com/LIghtJUNction/ace2-kernelsu-susfs",
+      "description": "OnePlus Ace 2 PHK110: pinned upstream KernelSU + SUSFS, maintained Numbersf fork",
+      "language": "Kotlin",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-14T17:42:42Z",
+      "topics": []
+    },
+    {
+      "name": "ace5-kernelsu-next-susfs",
+      "url": "https://github.com/LIghtJUNction/ace5-kernelsu-next-susfs",
+      "description": "OnePlus Ace 5 PKG110 Android 16 kernel builder with pinned KernelSU-Next SUSFS integration and build evidence; not device tested",
+      "language": "Kotlin",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-15T17:13:08Z",
+      "topics": []
+    },
+    {
+      "name": "Action_OnePlus_MKSU_SUSFS",
+      "url": "https://github.com/LIghtJUNction/Action_OnePlus_MKSU_SUSFS",
+      "description": "使用Github Action自动编译一加SukiSU内核",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-06-12T18:54:46Z",
+      "topics": []
+    },
+    {
+      "name": "AFFiNE",
+      "url": "https://github.com/LIghtJUNction/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-04-29T15:00:05Z",
+      "topics": []
+    },
+    {
+      "name": "agent-afk",
+      "url": "https://github.com/LIghtJUNction/agent-afk",
+      "description": "Local-first CLI for running, supervising, and resuming coding agents across terminal and chat surfaces. Apache-2.0.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:41:26Z",
+      "topics": []
+    },
+    {
+      "name": "agent-notes",
+      "url": "https://github.com/LIghtJUNction/agent-notes",
+      "description": "Modular configuration files and best practices for AI coding agents across different technologies and frameworks.",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-08-31T06:33:17Z",
+      "topics": []
+    },
+    {
+      "name": "agent.sh",
+      "url": "https://github.com/LIghtJUNction/agent.sh",
+      "description": "Tiny dependency-free CortexFS MCP terminal agent",
+      "language": "Shell",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-27T03:57:27Z",
+      "topics": []
+    },
+    {
+      "name": "AGENT_ADDRESS_BOOK",
+      "url": "https://github.com/LIghtJUNction/AGENT_ADDRESS_BOOK",
+      "description": "Address book for AI agents.",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-05-18T21:16:11Z",
+      "topics": []
+    },
+    {
+      "name": "AGENT_VOID",
+      "url": "https://github.com/LIghtJUNction/AGENT_VOID",
+      "description": "An emotional tree hole specially prepared for AI agent.",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-05-18T21:33:17Z",
+      "topics": []
+    },
+    {
+      "name": "AgentGC",
+      "url": "https://github.com/LIghtJUNction/AgentGC",
+      "description": "Skills + CLI for tracking, sorting, searching, tagging and indexing AI agent files",
+      "language": "Python",
+      "stars": 1,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-10-19T17:41:54Z",
+      "topics": []
+    },
+    {
+      "name": "agentic-bees",
+      "url": "https://github.com/LIghtJUNction/agentic-bees",
+      "description": "Agent-directed, bounded Btrfs deduplication with CLI and MCP interfaces",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-01T12:01:29Z",
+      "topics": []
+    },
+    {
+      "name": "AGENTS.md",
+      "url": "https://github.com/LIghtJUNction/AGENTS.md",
+      "description": "The prompt with the best effect was identified through experimental testing.",
+      "language": "Other",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T10:01:30Z",
+      "topics": []
+    },
+    {
+      "name": "algorithms",
+      "url": "https://github.com/LIghtJUNction/algorithms",
+      "description": "Exploring equivalent algorithms in AI through reproducible validation.",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-18T21:52:03Z",
+      "topics": []
+    },
+    {
+      "name": "Android-Builder",
+      "url": "https://github.com/LIghtJUNction/Android-Builder",
+      "description": "Automaticcaly build android kernel by github actions.",
+      "language": "Shell",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2024-12-20T13:16:38Z",
+      "topics": []
+    },
+    {
+      "name": "android-mainline-port",
+      "url": "https://github.com/LIghtJUNction/android-mainline-port",
+      "description": "把主线 Linux 移植到安卓手机、平板的 Agent Skill：流程、决策规则与踩坑经验 · Agent skill for porting mainline Linux to Android phones and tablets",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-26T21:42:52Z",
+      "topics": []
+    },
+    {
+      "name": "android_kernel_common_oneplus_sm8475",
+      "url": "https://github.com/LIghtJUNction/android_kernel_common_oneplus_sm8475",
+      "description": "sm8475",
+      "language": "C",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-27T06:45:11Z",
+      "topics": []
+    },
+    {
+      "name": "android_kernel_modules_and_devicetree_oneplus_sm8475",
+      "url": "https://github.com/LIghtJUNction/android_kernel_modules_and_devicetree_oneplus_sm8475",
+      "description": "sm8475",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-23T09:49:41Z",
+      "topics": []
+    },
+    {
+      "name": "android_kernel_oneplus_sm8475",
+      "url": "https://github.com/LIghtJUNction/android_kernel_oneplus_sm8475",
+      "description": "sm8475",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-27T09:32:57Z",
+      "topics": []
+    },
+    {
+      "name": "AndroidUse",
+      "url": "https://github.com/LIghtJUNction/AndroidUse",
+      "description": "mcp server",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-06-10T08:01:44Z",
+      "topics": []
+    },
+    {
+      "name": "androiduse-zygisk-loader",
+      "url": "https://github.com/LIghtJUNction/androiduse-zygisk-loader",
+      "description": "AndroidUse module loader",
+      "language": "Rust",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T10:04:04Z",
+      "topics": []
+    },
+    {
+      "name": "anime-reaction-gif",
+      "url": "https://github.com/LIghtJUNction/anime-reaction-gif",
+      "description": "Codex skill for anime reaction GIFs: image-generated pose sheets, FFmpeg loop assembly, and three original examples.",
+      "language": "Python",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-02T23:56:27Z",
+      "topics": []
+    },
+    {
+      "name": "anthropic-art",
+      "url": "https://github.com/LIghtJUNction/anthropic-art",
+      "description": "Generate full-background Anthropic-style editorial illustrations with verified palette and hand-drawn visual rules.",
+      "language": "Python",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-08-09T17:28:05Z",
+      "topics": []
+    },
+    {
+      "name": "api-lmm-best-pay",
+      "url": "https://github.com/LIghtJUNction/api-lmm-best-pay",
+      "description": "Hardened FAST personal payment platform with admin, merchant, API, and demo modules",
+      "language": "Vue",
+      "stars": 0,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-08-01T07:18:40Z",
+      "topics": []
+    },
+    {
+      "name": "api.lmm.best",
+      "url": "https://github.com/LIghtJUNction/api.lmm.best",
+      "description": "Global-oriented AI open source collaborative incentive platform 请提交给上游",
+      "language": "Go",
+      "stars": 1,
+      "fork": true,
+      "archived": true,
+      "updated": "2026-09-16T17:55:29Z",
+      "topics": []
+    },
+    {
+      "name": "ARC-AGI-3-Agents",
+      "url": "https://github.com/LIghtJUNction/ARC-AGI-3-Agents",
+      "description": "just for fun.",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-04-03T15:07:47Z",
+      "topics": []
+    },
+    {
+      "name": "arch-guide",
+      "url": "https://github.com/LIghtJUNction/arch-guide",
+      "description": "✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨",
+      "language": "Dockerfile",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-25T11:29:11Z",
+      "topics": []
+    },
+    {
+      "name": "ascii-morph-gif",
+      "url": "https://github.com/LIghtJUNction/ascii-morph-gif",
+      "description": "A Codex skill for clean looping ASCII morph GIFs. No watermarks, captions or footers.",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-02T19:06:32Z",
+      "topics": []
+    },
+    {
+      "name": "asl",
+      "url": "https://github.com/LIghtJUNction/asl",
+      "description": "Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)",
+      "language": "Shell",
+      "stars": 2,
+      "fork": true,
+      "archived": true,
+      "updated": "2025-12-28T19:11:21Z",
+      "topics": []
+    },
+    {
+      "name": "asl-ksu",
+      "url": "https://github.com/LIghtJUNction/asl-ksu",
+      "description": "AndroidSubSystem4GNU/Linux",
+      "language": "Shell",
+      "stars": 58,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:50:27Z",
+      "topics": [
+        "kam",
+        "kernelsu"
+      ]
+    },
+    {
+      "name": "astrbot-recipkg",
+      "url": "https://github.com/LIghtJUNction/astrbot-recipkg",
+      "description": "",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-29T19:37:14Z",
+      "topics": [
+        "recipkg"
+      ]
+    },
+    {
+      "name": "AstrBotCanary",
+      "url": "https://github.com/LIghtJUNction/AstrBotCanary",
+      "description": "This is an officially supported Astrbot",
+      "language": "Rust",
+      "stars": 3,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-03-13T17:02:24Z",
+      "topics": []
+    },
+    {
+      "name": "AUL",
+      "url": "https://github.com/LIghtJUNction/AUL",
+      "description": "An agent-first, MIT-inspired license. Upstream feedback by default, independent forks by choice.",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-14T17:56:17Z",
+      "topics": [
+        "license",
+        "licenses"
+      ]
+    },
+    {
+      "name": "aur-obscura-browser-bin",
+      "url": "https://github.com/LIghtJUNction/aur-obscura-browser-bin",
+      "description": "",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-08-21T10:43:14Z",
+      "topics": []
+    },
+    {
+      "name": "avio",
+      "url": "https://github.com/LIghtJUNction/avio",
+      "description": "A safe, high-level Rust wrapper around FFmpeg for building video editors — decode, encode, filter, compose, and stream.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-23T19:34:28Z",
+      "topics": []
+    },
+    {
+      "name": "awesome-agent-skills",
+      "url": "https://github.com/LIghtJUNction/awesome-agent-skills",
+      "description": "The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-14T18:09:30Z",
+      "topics": []
+    },
+    {
+      "name": "awesome-agent-tools",
+      "url": "https://github.com/LIghtJUNction/awesome-agent-tools",
+      "description": " Curated Skills, MCP servers, and tools for AI agents. ",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-14T17:48:47Z",
+      "topics": []
+    },
+    {
+      "name": "awesome-codex-plugins",
+      "url": "https://github.com/LIghtJUNction/awesome-codex-plugins",
+      "description": "A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-03T00:00:15Z",
+      "topics": []
+    },
+    {
+      "name": "awesome-deepseek-harness-plugins",
+      "url": "https://github.com/LIghtJUNction/awesome-deepseek-harness-plugins",
+      "description": "DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-02T07:30:54Z",
+      "topics": []
+    },
+    {
+      "name": "awesome-mcp-servers",
+      "url": "https://github.com/LIghtJUNction/awesome-mcp-servers",
+      "description": "A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP servers across databases, developer tools, web automation, cloud infrastructure, productivity, AI agents, analytics, and more.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-26T14:49:18Z",
+      "topics": []
+    },
+    {
+      "name": "awesome-submit",
+      "url": "https://github.com/LIghtJUNction/awesome-submit",
+      "description": "Agent skill to nominate projects to relevant awesome lists with policy checks, duplicate detection, and verified pull requests",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-14T18:38:49Z",
+      "topics": [
+        "agent-skill",
+        "awesome-list",
+        "developer-tools"
+      ]
+    },
+    {
+      "name": "betamax",
+      "url": "https://github.com/LIghtJUNction/betamax",
+      "description": "Rust-first VHS-style terminal capture CLI",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:48:29Z",
+      "topics": []
+    },
+    {
+      "name": "BFM_config-",
+      "url": "https://github.com/LIghtJUNction/BFM_config-",
+      "description": "config for clash meta (mihomo ) | clash verge (pc and android) |box for magsik|kernelsu|apatch (need root)(透明proxy)   | DNS 泄露已解决 | 点击下方链接跳转至自定义rule仓库",
+      "language": "Shell",
+      "stars": 32,
+      "fork": true,
+      "archived": true,
+      "updated": "2025-11-15T22:40:15Z",
+      "topics": []
+    },
+    {
+      "name": "blog",
+      "url": "https://github.com/LIghtJUNction/blog",
+      "description": "✨A static blog template built with Astro.",
+      "language": "Astro",
+      "stars": 0,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-09-01T01:23:39Z",
+      "topics": []
+    },
+    {
+      "name": "BossKit",
+      "url": "https://github.com/LIghtJUNction/BossKit",
+      "description": "BossKit",
+      "language": "Rust",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T10:04:54Z",
+      "topics": []
+    },
+    {
+      "name": "CCBaga",
+      "url": "https://github.com/LIghtJUNction/CCBaga",
+      "description": "",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-14T17:32:45Z",
+      "topics": []
+    },
+    {
+      "name": "ChatAPI",
+      "url": "https://github.com/LIghtJUNction/ChatAPI",
+      "description": "把你自己装进 OpenAI responses API 里面，扮演 Assistant 和用户聊天（",
+      "language": "Go",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-08-31T06:33:20Z",
+      "topics": []
+    },
+    {
+      "name": "CL4R1T4S",
+      "url": "https://github.com/LIghtJUNction/CL4R1T4S",
+      "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-09T22:37:34Z",
+      "topics": []
+    },
+    {
+      "name": "clin-rs",
+      "url": "https://github.com/LIghtJUNction/clin-rs",
+      "description": "TUI note management app inspired by Obsidian",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:52:25Z",
+      "topics": []
+    },
+    {
+      "name": "codensity",
+      "url": "https://github.com/LIghtJUNction/codensity",
+      "description": "Deterministic source-code compression density analysis",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-26T09:01:33Z",
+      "topics": []
+    },
+    {
+      "name": "Codewhale",
+      "url": "https://github.com/LIghtJUNction/Codewhale",
+      "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-11T01:48:12Z",
+      "topics": []
+    },
+    {
+      "name": "codex",
+      "url": "https://github.com/LIghtJUNction/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-23T22:44:33Z",
+      "topics": []
+    },
+    {
+      "name": "codex-sync",
+      "url": "https://github.com/LIghtJUNction/codex-sync",
+      "description": "codex sync",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T08:59:54Z",
+      "topics": []
+    },
+    {
+      "name": "CONFIG_RULE_DIY",
+      "url": "https://github.com/LIghtJUNction/CONFIG_RULE_DIY",
+      "description": "🎃自定义Clash代理规则的方案 ",
+      "language": "Other",
+      "stars": 3,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-18T14:36:07Z",
+      "topics": []
+    },
+    {
+      "name": "confluence2md",
+      "url": "https://github.com/LIghtJUNction/confluence2md",
+      "description": "Convert Confluence pages to clean, portable Markdown with images, draw.io diagrams, and PlantUML all included.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-11T22:21:13Z",
+      "topics": []
+    },
+    {
+      "name": "cortexfs",
+      "url": "https://github.com/LIghtJUNction/cortexfs",
+      "description": "“Everything is a file” for the AGI era — an agent framework masquerading as a POSIX file system for LLM context, memory, and reasoning.",
+      "language": "Other",
+      "stars": 4,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:55:50Z",
+      "topics": [
+        "agent",
+        "fuse",
+        "linux",
+        "recipkg"
+      ]
+    },
+    {
+      "name": "cpyref",
+      "url": "https://github.com/LIghtJUNction/cpyref",
+      "description": "Copy once. Paste exactly. A planned Rust copy-and-paste tool for AI agents.",
+      "language": "Rust",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T10:00:56Z",
+      "topics": []
+    },
+    {
+      "name": "dash.astrbot.men",
+      "url": "https://github.com/LIghtJUNction/dash.astrbot.men",
+      "description": "Astrbot Dashboard",
+      "language": "Vue",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-03T02:54:09Z",
+      "topics": []
+    },
+    {
+      "name": "dirmap",
+      "url": "https://github.com/LIghtJUNction/dirmap",
+      "description": "An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。",
+      "language": "Python",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-22T17:39:01Z",
+      "topics": []
+    },
+    {
+      "name": "dirtyfrag",
+      "url": "https://github.com/LIghtJUNction/dirtyfrag",
+      "description": "",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-05-08T09:22:04Z",
+      "topics": []
+    },
+    {
+      "name": "docod",
+      "url": "https://github.com/LIghtJUNction/docod",
+      "description": "Sync your docs as fast as you ship your code.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-13T18:03:46Z",
+      "topics": []
+    },
+    {
+      "name": "dots-hyprland",
+      "url": "https://github.com/LIghtJUNction/dots-hyprland",
+      "description": "uhh questioning the meaning of dotfiles",
+      "language": "QML",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-04-15T07:46:04Z",
+      "topics": []
+    },
+    {
+      "name": "douyin",
+      "url": "https://github.com/LIghtJUNction/douyin",
+      "description": "抖音非官方sdk/命令行工具",
+      "language": "Rust",
+      "stars": 4,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:55:16Z",
+      "topics": []
+    },
+    {
+      "name": "draw-project-meme",
+      "url": "https://github.com/LIghtJUNction/draw-project-meme",
+      "description": "draw-project-meme skill",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-27T22:39:21Z",
+      "topics": []
+    },
+    {
+      "name": "dsh-caffeinate",
+      "url": "https://github.com/LIghtJUNction/dsh-caffeinate",
+      "description": "Keep the computer awake while DSH agents run",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:04:26Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-compass",
+      "url": "https://github.com/LIghtJUNction/dsh-compass",
+      "description": "Repository code maps and navigation for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:04:21Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-context-folding",
+      "url": "https://github.com/LIghtJUNction/dsh-context-folding",
+      "description": "Reversible context folding for DeepSeek Harness",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-28T00:04:32Z",
+      "topics": []
+    },
+    {
+      "name": "dsh-dotenv",
+      "url": "https://github.com/LIghtJUNction/dsh-dotenv",
+      "description": "Explicit dotenv loading without overwriting inherited variables",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:04:26Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-file-context",
+      "url": "https://github.com/LIghtJUNction/dsh-file-context",
+      "description": "Immutable file and diff context snapshots for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:04:23Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-hashline",
+      "url": "https://github.com/LIghtJUNction/dsh-hashline",
+      "description": "Stale-safe hash-anchored line editing for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:07:29Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-mono",
+      "url": "https://github.com/LIghtJUNction/dsh-mono",
+      "description": "Ten Pi-inspired plugins for DeepSeek Harness, independently versioned as Git submodules",
+      "language": "JavaScript",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:39:36Z",
+      "topics": []
+    },
+    {
+      "name": "dsh-notes",
+      "url": "https://github.com/LIghtJUNction/dsh-notes",
+      "description": "Revision-checked Markdown notes for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:04:26Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-recall",
+      "url": "https://github.com/LIghtJUNction/dsh-recall",
+      "description": "Searchable project conversation excerpts for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:04:21Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-red-green",
+      "url": "https://github.com/LIghtJUNction/dsh-red-green",
+      "description": "Evidence-driven RED GREEN REFACTOR workflow for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:04:24Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-rewind",
+      "url": "https://github.com/LIghtJUNction/dsh-rewind",
+      "description": "Non-destructive Git checkpoints and file rewind for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:07:29Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "dsh-rtk-optimizer",
+      "url": "https://github.com/LIghtJUNction/dsh-rtk-optimizer",
+      "description": "RTK command optimization for DSH",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:07:29Z",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "emailctl",
+      "url": "https://github.com/LIghtJUNction/emailctl",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-08-03T19:44:23Z",
+      "topics": []
+    },
+    {
+      "name": "epic-kiosk",
+      "url": "https://github.com/LIghtJUNction/epic-kiosk",
+      "description": "🍷 优雅地自动领取 Epic Store 每周免费游戏。",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-05-02T14:12:05Z",
+      "topics": []
+    },
+    {
+      "name": "Fable5-mc",
+      "url": "https://github.com/LIghtJUNction/Fable5-mc",
+      "description": "fable5",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-09T21:39:45Z",
+      "topics": []
+    },
+    {
+      "name": "ft-syntax-highlight",
+      "url": "https://github.com/LIghtJUNction/ft-syntax-highlight",
+      "description": "Pure CSS syntax highlighter, no Javascript required. Includes built-in tooltips with UI themes and syntax highlighting themes",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-23T19:27:48Z",
+      "topics": []
+    },
+    {
+      "name": "fts-engine",
+      "url": "https://github.com/LIghtJUNction/fts-engine",
+      "description": "Modular full-text search engine in Go with pluggable indexes, filters, and customizable text processing pipelines. You can instantly index your docs (trie, n-grams, HAMT), apply probabilistic filters, and experimenting with search performance via interactive CUI.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:04:54Z",
+      "topics": []
+    },
+    {
+      "name": "FullVideoProductionSkill",
+      "url": "https://github.com/LIghtJUNction/FullVideoProductionSkill",
+      "description": "20亿Claude Opus 4.6-4.8的Token",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-07-02T00:33:56Z",
+      "topics": []
+    },
+    {
+      "name": "FunClip",
+      "url": "https://github.com/LIghtJUNction/FunClip",
+      "description": "FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-07-29T11:03:28Z",
+      "topics": []
+    },
+    {
+      "name": "future-agi",
+      "url": "https://github.com/LIghtJUNction/future-agi",
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-08-31T16:29:00Z",
+      "topics": []
+    },
+    {
+      "name": "geg",
+      "url": "https://github.com/LIghtJUNction/geg",
+      "description": "Geg Embeds Gemma — offline semantic grep for local code and text with EmbeddingGemma 2",
+      "language": "Rust",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-01T14:31:57Z",
+      "topics": []
+    },
+    {
+      "name": "go.lmm.best",
+      "url": "https://github.com/LIghtJUNction/go.lmm.best",
+      "description": "Human vs. AI Go, powered by WebMCP",
+      "language": "TypeScript",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-09-03T12:53:03Z",
+      "topics": [
+        "webmcp"
+      ]
+    },
+    {
+      "name": "gogogo",
+      "url": "https://github.com/LIghtJUNction/gogogo",
+      "description": "Rmm project ",
+      "language": "Shell",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2025-06-14T05:39:51Z",
+      "topics": []
+    },
+    {
+      "name": "gpu-unlock-ada",
+      "url": "https://github.com/LIghtJUNction/gpu-unlock-ada",
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "language": "C",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-26T08:16:52Z",
+      "topics": []
+    },
+    {
+      "name": "grok-build",
+      "url": "https://github.com/LIghtJUNction/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-07-15T22:48:00Z",
+      "topics": []
+    },
+    {
+      "name": "headroom",
+      "url": "https://github.com/LIghtJUNction/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-06T01:42:02Z",
+      "topics": []
+    },
+    {
+      "name": "hello_dkms",
+      "url": "https://github.com/LIghtJUNction/hello_dkms",
+      "description": "linux kernel module (dkms) ",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-04-25T12:39:55Z",
+      "topics": []
+    },
+    {
+      "name": "HI_AGENT",
+      "url": "https://github.com/LIghtJUNction/HI_AGENT",
+      "description": "这是一个给agent阅读的仓库，人类免入",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-05-25T19:01:27Z",
+      "topics": []
+    },
+    {
+      "name": "human-mcp",
+      "url": "https://github.com/LIghtJUNction/human-mcp",
+      "description": "Human Interaction MCP Tool",
+      "language": "Rust",
+      "stars": 8,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-06-20T15:51:15Z",
+      "topics": [
+        "agents",
+        "mcp"
+      ]
+    },
+    {
+      "name": "human-mcp-webui",
+      "url": "https://github.com/LIghtJUNction/human-mcp-webui",
+      "description": "Web UI for humen-mcp",
+      "language": "TypeScript",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-06-20T15:42:30Z",
+      "topics": []
+    },
+    {
+      "name": "humangrant",
+      "url": "https://github.com/LIghtJUNction/humangrant",
+      "description": "humangrant",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-26T15:21:53Z",
+      "topics": []
+    },
+    {
+      "name": "intelligent",
+      "url": "https://github.com/LIghtJUNction/intelligent",
+      "description": "Intelligently classify files and clear empty folders",
+      "language": "Shell",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-05-30T06:01:02Z",
+      "topics": []
+    },
+    {
+      "name": "Jlib",
+      "url": "https://github.com/LIghtJUNction/Jlib",
+      "description": "Peter Han's mods for Oxygen Not Included",
+      "language": "C#",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-02T00:34:29Z",
+      "topics": []
+    },
+    {
+      "name": "kelivo",
+      "url": "https://github.com/LIghtJUNction/kelivo",
+      "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-09-28T19:20:22Z",
+      "topics": []
+    },
+    {
+      "name": "kernel_manifest",
+      "url": "https://github.com/LIghtJUNction/kernel_manifest",
+      "description": "内核主线",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-25T12:35:16Z",
+      "topics": []
+    },
+    {
+      "name": "KernelSU",
+      "url": "https://github.com/LIghtJUNction/KernelSU",
+      "description": "A Kernel based root solution for Android",
+      "language": "Kotlin",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-06-08T07:57:04Z",
+      "topics": []
+    },
+    {
+      "name": "KernelSU-Next-Modules-Repo",
+      "url": "https://github.com/LIghtJUNction/KernelSU-Next-Modules-Repo",
+      "description": "",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-09-13T19:57:22Z",
+      "topics": []
+    },
+    {
+      "name": "KernelSU_Action",
+      "url": "https://github.com/LIghtJUNction/KernelSU_Action",
+      "description": "build KernelSU for LGG8 -pixel",
+      "language": "Shell",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2024-10-07T09:01:52Z",
+      "topics": []
+    },
+    {
+      "name": "kimi-cli",
+      "url": "https://github.com/LIghtJUNction/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-05-07T23:18:37Z",
+      "topics": []
+    },
+    {
+      "name": "lab-safety-system",
+      "url": "https://github.com/LIghtJUNction/lab-safety-system",
+      "description": "Laboratory Safety Management Information System",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-09-21T15:52:13Z",
+      "topics": []
+    },
+    {
+      "name": "lab-safety-system-frontend",
+      "url": "https://github.com/LIghtJUNction/lab-safety-system-frontend",
+      "description": "Frontend for the Laboratory Safety Management Information System",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-22T11:54:47Z",
+      "topics": []
+    },
+    {
+      "name": "LGG8-Mcstark-Kernel-Builder",
+      "url": "https://github.com/LIghtJUNction/LGG8-Mcstark-Kernel-Builder",
+      "description": "mcstark kernel for LG G8 DEV",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2024-10-08T13:44:45Z",
+      "topics": []
+    },
+    {
+      "name": "LightFlow",
+      "url": "https://github.com/LIghtJUNction/LightFlow",
+      "description": "is a programmable, node-based AI workflow engine built for developers. It enables orchestrating complex AI coding and automation pipelines via code-defined graphs, featuring native CLI tools and full Model Context Protocol (MCP) support.",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-30T05:12:42Z",
+      "topics": [
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "name": "lightflow-auto-editing",
+      "url": "https://github.com/LIghtJUNction/lightflow-auto-editing",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-30T05:12:34Z",
+      "topics": []
+    },
+    {
+      "name": "lightflow-flux",
+      "url": "https://github.com/LIghtJUNction/lightflow-flux",
+      "description": "",
+      "language": "C++",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T08:26:58Z",
+      "topics": []
+    },
+    {
+      "name": "lightflow-rig",
+      "url": "https://github.com/LIghtJUNction/lightflow-rig",
+      "description": "lightflow-rig",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-26T17:26:47Z",
+      "topics": []
+    },
+    {
+      "name": "lightflow-std",
+      "url": "https://github.com/LIghtJUNction/lightflow-std",
+      "description": "lightflow-std",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-26T17:26:11Z",
+      "topics": []
+    },
+    {
+      "name": "LightFlowUI",
+      "url": "https://github.com/LIghtJUNction/LightFlowUI",
+      "description": "Frontend control console for LightFlow",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-26T17:24:41Z",
+      "topics": []
+    },
+    {
+      "name": "lightjunction",
+      "url": "https://github.com/LIghtJUNction/lightjunction",
+      "description": "I'M LIghtJUNction",
+      "language": "JavaScript",
+      "stars": 3,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:56:15Z",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "ai",
+        "android",
+        "bash",
+        "openpgp",
+        "shell-script",
+        "termux",
+        "typescript",
+        "vite"
+      ]
+    },
+    {
+      "name": "lightnest",
+      "url": "https://github.com/LIghtJUNction/lightnest",
+      "description": "An experiment",
+      "language": "Python",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-01T12:58:05Z",
+      "topics": []
+    },
+    {
+      "name": "linux-lgg8",
+      "url": "https://github.com/LIghtJUNction/linux-lgg8",
+      "description": "Experimental mainline Linux kernel for LG G8 ThinQ (LM-G820 / alphalm): device tree, SW43410 panel bring-up, boot.img tooling and Chinese documentation.",
+      "language": "C",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-02T08:01:53Z",
+      "topics": []
+    },
+    {
+      "name": "linux-windows-apps",
+      "url": "https://github.com/LIghtJUNction/linux-windows-apps",
+      "description": "Agent skill to install and control Windows apps on Linux with explicit Wine/Bottles prefixes and private background desktops",
+      "language": "Python",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-15T19:29:53Z",
+      "topics": []
+    },
+    {
+      "name": "liveboot",
+      "url": "https://github.com/LIghtJUNction/liveboot",
+      "description": "Sources for the LiveBoot app for rooted Android devices",
+      "language": "Java",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-08-31T06:33:39Z",
+      "topics": []
+    },
+    {
+      "name": "LLaMA-Factory",
+      "url": "https://github.com/LIghtJUNction/LLaMA-Factory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-05-30T08:52:14Z",
+      "topics": []
+    },
+    {
+      "name": "LsposedModuleModel",
+      "url": "https://github.com/LIghtJUNction/LsposedModuleModel",
+      "description": "lsposed模块模板",
+      "language": "Other",
+      "stars": 5,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:54:44Z",
+      "topics": []
+    },
+    {
+      "name": "MagicBox",
+      "url": "https://github.com/LIghtJUNction/MagicBox",
+      "description": "ohhhh.",
+      "language": "Kotlin",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:58:11Z",
+      "topics": []
+    },
+    {
+      "name": "MagicMihomo",
+      "url": "https://github.com/LIghtJUNction/MagicMihomo",
+      "description": "MagicNet-mihomo",
+      "language": "HTML",
+      "stars": 11,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T01:42:55Z",
+      "topics": []
+    },
+    {
+      "name": "MagicNet",
+      "url": "https://github.com/LIghtJUNction/MagicNet",
+      "description": "Consciously set all groups to block",
+      "language": "Python",
+      "stars": 217,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T01:10:51Z",
+      "topics": [
+        "recipkg"
+      ]
+    },
+    {
+      "name": "magicnet-android",
+      "url": "https://github.com/LIghtJUNction/magicnet-android",
+      "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-01T10:56:36Z",
+      "topics": []
+    },
+    {
+      "name": "MagicNet-ksu",
+      "url": "https://github.com/LIghtJUNction/MagicNet-ksu",
+      "description": "MagicNet , I just want to surf the internet.",
+      "language": "Other",
+      "stars": 27,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-10-24T05:57:26Z",
+      "topics": [
+        "ap",
+        "ksu",
+        "magisk"
+      ]
+    },
+    {
+      "name": "MagicNetRules",
+      "url": "https://github.com/LIghtJUNction/MagicNetRules",
+      "description": "Maintained, deduplicated and optimized sing-box rule sets for MagicNet",
+      "language": "Python",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T06:25:37Z",
+      "topics": []
+    },
+    {
+      "name": "MagicSingBox",
+      "url": "https://github.com/LIghtJUNction/MagicSingBox",
+      "description": "MagicNet x sing-box",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-08T05:45:58Z",
+      "topics": []
+    },
+    {
+      "name": "MagicSub",
+      "url": "https://github.com/LIghtJUNction/MagicSub",
+      "description": "An rmm Project Magisk Module , Use sub store on Android.",
+      "language": "Shell",
+      "stars": 3,
+      "fork": false,
+      "archived": true,
+      "updated": "2025-06-08T17:45:24Z",
+      "topics": []
+    },
+    {
+      "name": "magisk-brick-guardian",
+      "url": "https://github.com/LIghtJUNction/magisk-brick-guardian",
+      "description": "一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。",
+      "language": "Shell",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-06-06T22:28:44Z",
+      "topics": []
+    },
+    {
+      "name": "magpie-context-folding",
+      "url": "https://github.com/LIghtJUNction/magpie-context-folding",
+      "description": "Reversible, agent-directed context folding for Magpie with cache-aware cost guards",
+      "language": "TypeScript",
+      "stars": 3,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:57:08Z",
+      "topics": [
+        "context-management",
+        "magpie",
+        "magpie-plugin",
+        "mcp"
+      ]
+    },
+    {
+      "name": "magpie-rs",
+      "url": "https://github.com/LIghtJUNction/magpie-rs",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:11:36Z",
+      "topics": [
+        "recipkg"
+      ]
+    },
+    {
+      "name": "magpie-rs-source",
+      "url": "https://github.com/LIghtJUNction/magpie-rs-source",
+      "description": "Rust implementation of Magpie with a CLI, local gateway prototype, GPUI desktop shell, and reproducible benchmarks.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T07:06:23Z",
+      "topics": []
+    },
+    {
+      "name": "markref",
+      "url": "https://github.com/LIghtJUNction/markref",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-26T22:52:44Z",
+      "topics": []
+    },
+    {
+      "name": "matchplane",
+      "url": "https://github.com/LIghtJUNction/matchplane",
+      "description": "Federated marketplace with explainable matching and isolated payments",
+      "language": "TypeScript",
+      "stars": 3,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-09-15T06:38:21Z",
+      "topics": []
+    },
+    {
+      "name": "MatriXpost",
+      "url": "https://github.com/LIghtJUNction/MatriXpost",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-29T20:15:43Z",
+      "topics": []
+    },
+    {
+      "name": "mdsmith",
+      "url": "https://github.com/LIghtJUNction/mdsmith",
+      "description": "fast, auto-fixing Markdown linter and formatter. Checks style, readability, structure, and cross-file integrity.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-16T19:47:23Z",
+      "topics": []
+    },
+    {
+      "name": "mechrevo-drivers",
+      "url": "https://github.com/LIghtJUNction/mechrevo-drivers",
+      "description": "Unofficial MECHREVO Linux platform drivers, based on TUXEDO drivers, with stable upstream release sync",
+      "language": "Python",
+      "stars": 7,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T06:51:11Z",
+      "topics": [
+        "dkms",
+        "kernel-modules",
+        "linux",
+        "mechrevo",
+        "tuxedo"
+      ]
+    },
+    {
+      "name": "meta-overlayfs",
+      "url": "https://github.com/LIghtJUNction/meta-overlayfs",
+      "description": "OverlayFS MetaModule",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-02T12:55:36Z",
+      "topics": []
+    },
+    {
+      "name": "Mimic-Node",
+      "url": "https://github.com/LIghtJUNction/Mimic-Node",
+      "description": "VLESS + Reality + Hysteria2 + XTLS-Vision/xhttp",
+      "language": "Rust",
+      "stars": 12,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T04:04:41Z",
+      "topics": [
+        "sing-box"
+      ]
+    },
+    {
+      "name": "minimind-o",
+      "url": "https://github.com/LIghtJUNction/minimind-o",
+      "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-05-07T00:58:24Z",
+      "topics": []
+    },
+    {
+      "name": "module_release",
+      "url": "https://github.com/LIghtJUNction/module_release",
+      "description": "Release a ksu module",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-10T15:33:40Z",
+      "topics": []
+    },
+    {
+      "name": "monoweave",
+      "url": "https://github.com/LIghtJUNction/monoweave",
+      "description": "Versioning and publishing toolchain for Yarn monorepos.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-12T21:07:49Z",
+      "topics": []
+    },
+    {
+      "name": "MoonshotAI-Cookbook",
+      "url": "https://github.com/LIghtJUNction/MoonshotAI-Cookbook",
+      "description": "Yet another Cookbook",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-18T00:03:14Z",
+      "topics": []
+    },
+    {
+      "name": "mu_aloha_platforms",
+      "url": "https://github.com/LIghtJUNction/mu_aloha_platforms",
+      "description": "Port of mu_andromeda_platforms for other qualcomm based devices.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-25T02:50:01Z",
+      "topics": []
+    },
+    {
+      "name": "nils-cli",
+      "url": "https://github.com/LIghtJUNction/nils-cli",
+      "description": "A Rust workspace of focused CLI binaries for Git operations, API test orchestration, and workflow automation, unified by shared cross-crate helpers.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-15T03:14:18Z",
+      "topics": []
+    },
+    {
+      "name": "ollama",
+      "url": "https://github.com/LIghtJUNction/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
+      "language": "Go",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-06-06T22:51:40Z",
+      "topics": []
+    },
+    {
+      "name": "omarchy",
+      "url": "https://github.com/LIghtJUNction/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-25T17:25:14Z",
+      "topics": []
+    },
+    {
+      "name": "omarchy-mobile",
+      "url": "https://github.com/LIghtJUNction/omarchy-mobile",
+      "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)",
+      "language": "Other",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-02T07:41:11Z",
+      "topics": []
+    },
+    {
+      "name": "omarchy-yubikey",
+      "url": "https://github.com/LIghtJUNction/omarchy-yubikey",
+      "description": "YubiKey in the Omarchy menu — 2FA codes matched to the focused window, typed or copied, plus key applications and repairs",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-09-28T17:54:14Z",
+      "topics": []
+    },
+    {
+      "name": "oni-skills",
+      "url": "https://github.com/LIghtJUNction/oni-skills",
+      "description": "《缺氧》（Oxygen Not Included）高阶游戏机制、工程模块与阶段决策知识库（可选子项目，社区共建）",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-19T03:24:14Z",
+      "topics": []
+    },
+    {
+      "name": "oni_multiplayer_fork",
+      "url": "https://github.com/LIghtJUNction/oni_multiplayer_fork",
+      "description": "Oxygen Not Included multiplayer mod. ",
+      "language": "C#",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-20T17:48:58Z",
+      "topics": []
+    },
+    {
+      "name": "OniHarness",
+      "url": "https://github.com/LIghtJUNction/OniHarness",
+      "description": "Headless test harness for Oxygen Not Included mods: real native simulation, isolated C# tests, no game launch",
+      "language": "Python",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T16:43:33Z",
+      "topics": [
+        "csharp",
+        "headless",
+        "modding",
+        "oxygen-not-included",
+        "testing"
+      ]
+    },
+    {
+      "name": "OniMods",
+      "url": "https://github.com/LIghtJUNction/OniMods",
+      "description": "oxygen not included",
+      "language": "C#",
+      "stars": 21,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T01:43:39Z",
+      "topics": [
+        "mcp",
+        "oni"
+      ]
+    },
+    {
+      "name": "openai-agents-python",
+      "url": "https://github.com/LIghtJUNction/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-01T08:51:26Z",
+      "topics": []
+    },
+    {
+      "name": "OpenMontage",
+      "url": "https://github.com/LIghtJUNction/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-07-24T04:02:17Z",
+      "topics": []
+    },
+    {
+      "name": "openstreetmap-calendar",
+      "url": "https://github.com/LIghtJUNction/openstreetmap-calendar",
+      "description": "osmcal, a Collaborative Calendar for OpenStreetMap-related Events",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-12T19:04:22Z",
+      "topics": []
+    },
+    {
+      "name": "Operit",
+      "url": "https://github.com/LIghtJUNction/Operit",
+      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-09-30T13:34:57Z",
+      "topics": []
+    },
+    {
+      "name": "org.kernelsu.example",
+      "url": "https://github.com/LIghtJUNction/org.kernelsu.example",
+      "description": "Example Module Name",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-09T17:47:07Z",
+      "topics": []
+    },
+    {
+      "name": "osm-apps-catalog",
+      "url": "https://github.com/LIghtJUNction/osm-apps-catalog",
+      "description": "There isn't just one, there are thousands.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-12T20:04:21Z",
+      "topics": []
+    },
+    {
+      "name": "oss-scanner",
+      "url": "https://github.com/LIghtJUNction/oss-scanner",
+      "description": "",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-09T13:19:49Z",
+      "topics": []
+    },
+    {
+      "name": "Oxygen_Not_Included_Multiplayer",
+      "url": "https://github.com/LIghtJUNction/Oxygen_Not_Included_Multiplayer",
+      "description": "",
+      "language": "C#",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-05-20T08:36:30Z",
+      "topics": []
+    },
+    {
+      "name": "painterly-loop-gif",
+      "url": "https://github.com/LIghtJUNction/painterly-loop-gif",
+      "description": "Codex skill for original painterly GIF loops: subtle foreground sway, rain, fireflies, FFmpeg assembly and decoded playback proof.",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-02T23:39:06Z",
+      "topics": []
+    },
+    {
+      "name": "palace-rs",
+      "url": "https://github.com/LIghtJUNction/palace-rs",
+      "description": "Local-first AI memory system in Rust with SQLite storage, semantic search, knowledge graph, MCP server, and CLI.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:47:33Z",
+      "topics": []
+    },
+    {
+      "name": "particle-sculpture-skill",
+      "url": "https://github.com/LIghtJUNction/particle-sculpture-skill",
+      "description": "Interactive 3D particle sculpture agent skill, extracted from api.lmm.best. Geometry, animation, mouse/touch physics and real browser GIF demo.",
+      "language": "JavaScript",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-22T08:15:18Z",
+      "topics": []
+    },
+    {
+      "name": "password-store",
+      "url": "https://github.com/LIghtJUNction/password-store",
+      "description": "powered by pass",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-03-25T12:14:58Z",
+      "topics": []
+    },
+    {
+      "name": "Payload_Repack_Tool",
+      "url": "https://github.com/LIghtJUNction/Payload_Repack_Tool",
+      "description": "Android payload.bin repack tool",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-06-15T20:44:09Z",
+      "topics": []
+    },
+    {
+      "name": "PeakMods",
+      "url": "https://github.com/LIghtJUNction/PeakMods",
+      "description": "peak modding",
+      "language": "C#",
+      "stars": 1,
+      "fork": false,
+      "archived": true,
+      "updated": "2025-12-02T19:31:08Z",
+      "topics": []
+    },
+    {
+      "name": "pi-reload",
+      "url": "https://github.com/LIghtJUNction/pi-reload",
+      "description": "Let Pi agents reload their runtime through a single tool",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-01T05:55:14Z",
+      "topics": []
+    },
+    {
+      "name": "pi-subagents",
+      "url": "https://github.com/LIghtJUNction/pi-subagents",
+      "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-14T11:03:23Z",
+      "topics": []
+    },
+    {
+      "name": "PiEEG-server",
+      "url": "https://github.com/LIghtJUNction/PiEEG-server",
+      "description": "One-line install streaming server, terminal monitor, and browser dashboard for the PiEEG shields.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-23T19:39:21Z",
+      "topics": []
+    },
+    {
+      "name": "pkgsite-mcp",
+      "url": "https://github.com/LIghtJUNction/pkgsite-mcp",
+      "description": "MCP server that exposes Go package and module documentation via the pkgsite tool, letting AI assistants look up Go docs locally.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T20:05:38Z",
+      "topics": []
+    },
+    {
+      "name": "playgo",
+      "url": "https://github.com/LIghtJUNction/playgo",
+      "description": "CLI tool to send .go file to the Go Playground",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-20T13:19:49Z",
+      "topics": []
+    },
+    {
+      "name": "Python-Type-Challenges",
+      "url": "https://github.com/LIghtJUNction/Python-Type-Challenges",
+      "description": "Master Python typing (type hints) with interactive online exercises! ",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-05-01T00:55:05Z",
+      "topics": []
+    },
+    {
+      "name": "queryflux",
+      "url": "https://github.com/LIghtJUNction/queryflux",
+      "description": "Multi-engine SQL query router in Rust—with routing, queuing, and sqlglot dialect translation",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:40:35Z",
+      "topics": []
+    },
+    {
+      "name": "readme",
+      "url": "https://github.com/LIghtJUNction/readme",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-01T15:14:07Z",
+      "topics": []
+    },
+    {
+      "name": "ResearchSkills",
+      "url": "https://github.com/LIghtJUNction/ResearchSkills",
+      "description": "Unite the knowledge of the world's top experts across every domain — to accelerate AI-driven scientific discovery.",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-05-31T21:11:08Z",
+      "topics": []
+    },
+    {
+      "name": "revision-tool-universal",
+      "url": "https://github.com/LIghtJUNction/revision-tool-universal",
+      "description": "No",
+      "language": "Dart",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-01-14T16:27:00Z",
+      "topics": []
+    },
+    {
+      "name": "Robyn",
+      "url": "https://github.com/LIghtJUNction/Robyn",
+      "description": "Robyn is a Super Fast Async Python Web Framework with a Rust runtime.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-10-19T16:57:09Z",
+      "topics": []
+    },
+    {
+      "name": "RstrBot",
+      "url": "https://github.com/LIghtJUNction/RstrBot",
+      "description": "",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-29T19:37:14Z",
+      "topics": [
+        "recipkg"
+      ]
+    },
+    {
+      "name": "rstrbot-implementation",
+      "url": "https://github.com/LIghtJUNction/rstrbot-implementation",
+      "description": "Generated implementation for the RstrBot recipe project",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-29T10:45:43Z",
+      "topics": []
+    },
+    {
+      "name": "rurima",
+      "url": "https://github.com/LIghtJUNction/rurima",
+      "description": "Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!",
+      "language": "C",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-06T15:36:56Z",
+      "topics": []
+    },
+    {
+      "name": "rust-lkm-template",
+      "url": "https://github.com/LIghtJUNction/rust-lkm-template",
+      "description": "Rust Loadable Kernel Module Template 🦀",
+      "language": "Shell",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-04-29T13:38:05Z",
+      "topics": []
+    },
+    {
+      "name": "rustlings",
+      "url": "https://github.com/LIghtJUNction/rustlings",
+      "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-09T07:25:08Z",
+      "topics": []
+    },
+    {
+      "name": "SeliMirror",
+      "url": "https://github.com/LIghtJUNction/SeliMirror",
+      "description": " A KernelPatch module that provides a baseline SELinux policy view for Android userspace queries.",
+      "language": "Python",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T09:59:32Z",
+      "topics": []
+    },
+    {
+      "name": "Show-o",
+      "url": "https://github.com/LIghtJUNction/Show-o",
+      "description": "[ICLR & NeurIPS 2025] Repository for Show-o series, One Single Transformer to Unify Multimodal Understanding and Generation.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-01-08T16:30:37Z",
+      "topics": []
+    },
+    {
+      "name": "sing-box",
+      "url": "https://github.com/LIghtJUNction/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-30T15:23:57Z",
+      "topics": []
+    },
+    {
+      "name": "SitePing",
+      "url": "https://github.com/LIghtJUNction/SitePing",
+      "description": "Drop-in visual feedback widget for websites. Pin comments directly on page elements — Shadow DOM isolated, framework-agnostic.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:50:50Z",
+      "topics": []
+    },
+    {
+      "name": "skills",
+      "url": "https://github.com/LIghtJUNction/skills",
+      "description": "我发布在 GitHub 上的 Agent 技能目录：做图、开发、Linux、缺氧及项目配套技能。",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T10:48:09Z",
+      "topics": []
+    },
+    {
+      "name": "skript-docs",
+      "url": "https://github.com/LIghtJUNction/skript-docs",
+      "description": "Documentation Site for Skript Plugin",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-12T22:12:19Z",
+      "topics": []
+    },
+    {
+      "name": "SmsForwarder",
+      "url": "https://github.com/LIghtJUNction/SmsForwarder",
+      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "language": "Kotlin",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-08-01T08:01:01Z",
+      "topics": []
+    },
+    {
+      "name": "snap-o",
+      "url": "https://github.com/LIghtJUNction/snap-o",
+      "description": "Lightweight Android capture developer tools for macOS",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-17T23:19:18Z",
+      "topics": []
+    },
+    {
+      "name": "snapveil",
+      "url": "https://github.com/LIghtJUNction/snapveil",
+      "description": "实现了 Android 标准截屏通知的全局拦截",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-19T09:54:14Z",
+      "topics": []
+    },
+    {
+      "name": "software2prompt",
+      "url": "https://github.com/LIghtJUNction/software2prompt",
+      "description": "将源码、二进制或运行实例提取为详细的一比一重建提示词，通过独立重建和原版对比评估质量。",
+      "language": "Other",
+      "stars": 1,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-10-27T00:56:17Z",
+      "topics": []
+    },
+    {
+      "name": "sq",
+      "url": "https://github.com/LIghtJUNction/sq",
+      "description": "System One decisions for shell pipelines — Rust CLI, local relay and typed Python SDK",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-20T15:06:19Z",
+      "topics": []
+    },
+    {
+      "name": "StartLive",
+      "url": "https://github.com/LIghtJUNction/StartLive",
+      "description": "绕过B站直播姬获取推流地址",
+      "language": "Python",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-19T07:07:16Z",
+      "topics": []
+    },
+    {
+      "name": "submission",
+      "url": "https://github.com/LIghtJUNction/submission",
+      "description": "Submit your KernelSU Modules!",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-08T09:40:08Z",
+      "topics": []
+    },
+    {
+      "name": "taskiq",
+      "url": "https://github.com/LIghtJUNction/taskiq",
+      "description": "Distributed task queue with full async support",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-10-14T10:12:14Z",
+      "topics": []
+    },
+    {
+      "name": "thu-learn-cli",
+      "url": "https://github.com/LIghtJUNction/thu-learn-cli",
+      "description": "",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-14T21:46:20Z",
+      "topics": []
+    },
+    {
+      "name": "tuxedo-rs",
+      "url": "https://github.com/LIghtJUNction/tuxedo-rs",
+      "description": "Rust libraries for interacting with hardware from TUXEDO Computers",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-27T03:11:00Z",
+      "topics": []
+    },
+    {
+      "name": "used-car-video-copywriting-skill",
+      "url": "https://github.com/LIghtJUNction/used-car-video-copywriting-skill",
+      "description": "Agent skill for structured used-car short-video copywriting",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-07-19T11:45:34Z",
+      "topics": []
+    },
+    {
+      "name": "uv",
+      "url": "https://github.com/LIghtJUNction/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-18T16:58:01Z",
+      "topics": []
+    },
+    {
+      "name": "Vector",
+      "url": "https://github.com/LIghtJUNction/Vector",
+      "description": "Modern Xposed Framework",
+      "language": "Kotlin",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-08-31T18:40:04Z",
+      "topics": []
+    },
+    {
+      "name": "VeyTerm",
+      "url": "https://github.com/LIghtJUNction/VeyTerm",
+      "description": "",
+      "language": "Java",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-10-30T00:29:14Z",
+      "topics": []
+    },
+    {
+      "name": "vibe-shader",
+      "url": "https://github.com/LIghtJUNction/vibe-shader",
+      "description": "A cinematic Minecraft Java shader pack for Iris with an OptiFine-compatible layout.",
+      "language": "GLSL",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-09-28T14:18:37Z",
+      "topics": [
+        "minecraft",
+        "shader"
+      ]
+    },
+    {
+      "name": "video-work-api",
+      "url": "https://github.com/LIghtJUNction/video-work-api",
+      "description": "video-work-api",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-09-23T01:58:36Z",
+      "topics": []
+    },
+    {
+      "name": "weyriva-shell",
+      "url": "https://github.com/LIghtJUNction/weyriva-shell",
+      "description": "A fluid, extensible Wayland desktop shell built around niri.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-08-10T01:29:01Z",
+      "topics": []
+    },
+    {
+      "name": "x-quality-growth",
+      "url": "https://github.com/LIghtJUNction/x-quality-growth",
+      "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
+      "language": "Python",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-02T05:58:40Z",
+      "topics": []
+    },
+    {
+      "name": "YumeBox",
+      "url": "https://github.com/LIghtJUNction/YumeBox",
+      "description": "an ordinary box, as ordinary as it can possibly be",
+      "language": "Kotlin",
+      "stars": 2,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-11-28T14:09:07Z",
+      "topics": []
+    },
+    {
+      "name": "YumeDark",
+      "url": "https://github.com/LIghtJUNction/YumeDark",
+      "description": "A blend of Dark and pink theme.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-06-05T18:01:07Z",
+      "topics": []
+    },
+    {
+      "name": "YumeFuwa",
+      "url": "https://github.com/LIghtJUNction/YumeFuwa",
+      "description": "Cute For Gitbhub Review",
+      "language": "Kotlin",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-12-26T17:56:35Z",
+      "topics": []
+    },
+    {
+      "name": "zed",
+      "url": "https://github.com/LIghtJUNction/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.--windows",
+      "language": "Rust",
+      "stars": 1,
+      "fork": true,
+      "archived": false,
+      "updated": "2025-06-24T17:43:31Z",
+      "topics": [
+        "windows",
+        "zed"
+      ]
+    },
+    {
+      "name": "ZhiLianEXue-CheatProgress",
+      "url": "https://github.com/LIghtJUNction/ZhiLianEXue-CheatProgress",
+      "description": "python程序之速刷【智联E学】-大学生职业规划短视频观看任务",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2024-10-27T12:19:25Z",
+      "topics": []
+    },
+    {
+      "name": "zsl-gcn-pth",
+      "url": "https://github.com/LIghtJUNction/zsl-gcn-pth",
+      "description": "zero-shot-gcn in pytorch",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-06-20T13:19:49Z",
+      "topics": []
+    }
+  ]
+}

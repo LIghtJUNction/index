@@ -1,0 +1,63 @@
+name: Check, update and publish index
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '23 22 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: index-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m unittest discover -s tests -v
+      - run: node --check site/app.js
+      - run: python scripts/update.py
+  publish:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: check
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh public repositories and build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update.py --refresh
+      - name: Commit changed snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/projects.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update project index'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
