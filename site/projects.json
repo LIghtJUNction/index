@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-03T03:32:20.847674+00:00",
+  "synced_at": "2026-11-03T22:28:13.025621+00:00",
   "projects": [
     {
       "name": "2048",
@@ -561,7 +561,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T11:13:37Z",
+      "updated": "2026-11-03T17:06:42Z",
       "topics": []
     },
     {
@@ -1107,7 +1107,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T10:56:59Z",
+      "updated": "2026-11-03T03:32:22Z",
       "topics": []
     },
     {
@@ -1239,7 +1239,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-07-30T05:12:42Z",
+      "updated": "2026-11-03T18:18:03Z",
       "topics": [
         "agent",
         "workflow"
@@ -1330,7 +1330,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-01T12:58:05Z",
+      "updated": "2026-11-03T10:21:04Z",
       "topics": []
     },
     {
@@ -1407,7 +1407,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T01:42:55Z",
+      "updated": "2026-11-03T03:38:35Z",
       "topics": []
     },
     {
@@ -1415,10 +1415,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 218,
+      "stars": 219,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T03:11:12Z",
+      "updated": "2026-11-03T03:55:26Z",
       "topics": [
         "recipkg"
       ]
@@ -1457,7 +1457,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T21:48:26Z",
+      "updated": "2026-11-03T12:30:18Z",
       "topics": []
     },
     {
@@ -1563,7 +1563,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-07-29T20:15:43Z",
+      "updated": "2026-11-03T17:06:41Z",
       "topics": []
     },
     {
@@ -1617,6 +1617,17 @@
       "topics": [
         "sing-box"
       ]
+    },
+    {
+      "name": "minimind",
+      "url": "https://github.com/LIghtJUNction/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-10-27T06:57:09Z",
+      "topics": []
     },
     {
       "name": "minimind-o",
@@ -2165,7 +2176,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T11:01:00Z",
+      "updated": "2026-11-03T09:39:30Z",
       "topics": []
     },
     {
@@ -2366,7 +2377,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-08-10T01:29:01Z",
+      "updated": "2026-11-03T21:29:33Z",
       "topics": []
     },
     {
@@ -2377,7 +2388,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T00:56:30Z",
+      "updated": "2026-11-03T18:20:52Z",
       "topics": []
     },
     {
