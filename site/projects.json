@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-04T22:28:01.806867+00:00",
+  "synced_at": "2026-11-05T22:28:15.874328+00:00",
   "projects": [
     {
       "name": "2048",
@@ -326,7 +326,7 @@
       "url": "https://github.com/LIghtJUNction/asl-ksu",
       "description": "AndroidSubSystem4GNU/Linux",
       "language": "Shell",
-      "stars": 58,
+      "stars": 57,
       "fork": false,
       "archived": false,
       "updated": "2026-10-30T09:50:27Z",
@@ -1031,6 +1031,17 @@
       "topics": []
     },
     {
+      "name": "gstack",
+      "url": "https://github.com/LIghtJUNction/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-05T08:29:07Z",
+      "topics": []
+    },
+    {
       "name": "headroom",
       "url": "https://github.com/LIghtJUNction/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
@@ -1107,7 +1118,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T22:28:14Z",
+      "updated": "2026-11-04T22:28:02Z",
       "topics": []
     },
     {
@@ -1308,7 +1319,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-30T09:56:15Z",
+      "updated": "2026-11-05T17:21:25Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1407,7 +1418,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T22:35:00Z",
+      "updated": "2026-11-04T22:34:57Z",
       "topics": []
     },
     {
@@ -1415,10 +1426,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 220,
+      "stars": 221,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T03:55:26Z",
+      "updated": "2026-11-05T20:42:55Z",
       "topics": [
         "recipkg"
       ]
@@ -1431,7 +1442,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T03:10:31Z",
+      "updated": "2026-11-05T03:44:03Z",
       "topics": []
     },
     {
@@ -1457,7 +1468,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-04T18:27:40Z",
+      "updated": "2026-11-05T18:28:53Z",
       "topics": []
     },
     {
@@ -1468,7 +1479,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-08T05:45:58Z",
+      "updated": "2026-11-05T03:40:43Z",
       "topics": []
     },
     {
@@ -2176,7 +2187,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-04T02:26:30Z",
+      "updated": "2026-11-05T02:28:08Z",
       "topics": []
     },
     {
@@ -2388,7 +2399,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-04T18:20:44Z",
+      "updated": "2026-11-05T18:22:45Z",
       "topics": []
     },
     {
