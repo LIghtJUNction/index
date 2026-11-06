@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-05T22:28:15.874328+00:00",
+  "synced_at": "2026-11-06T22:28:04.137370+00:00",
   "projects": [
     {
       "name": "2048",
@@ -1118,7 +1118,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-04T22:28:02Z",
+      "updated": "2026-11-05T22:28:16Z",
       "topics": []
     },
     {
@@ -1418,7 +1418,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-04T22:34:57Z",
+      "updated": "2026-11-05T22:34:56Z",
       "topics": []
     },
     {
@@ -1426,10 +1426,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 221,
+      "stars": 224,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-05T20:42:55Z",
+      "updated": "2026-11-06T16:17:07Z",
       "topics": [
         "recipkg"
       ]
@@ -1442,7 +1442,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-05T03:44:03Z",
+      "updated": "2026-11-06T15:31:23Z",
       "topics": []
     },
     {
@@ -1468,7 +1468,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-05T18:28:53Z",
+      "updated": "2026-11-06T18:28:02Z",
       "topics": []
     },
     {
@@ -1479,7 +1479,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-05T03:40:43Z",
+      "updated": "2026-11-06T08:01:01Z",
       "topics": []
     },
     {
@@ -1794,10 +1794,10 @@
       "url": "https://github.com/LIghtJUNction/OniMods",
       "description": "oxygen not included",
       "language": "C#",
-      "stars": 22,
+      "stars": 23,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T14:08:31Z",
+      "updated": "2026-11-06T09:50:53Z",
       "topics": [
         "mcp",
         "oni"
@@ -2165,7 +2165,7 @@
       "stars": 1,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-03T00:57:58Z",
+      "updated": "2026-11-06T02:08:53Z",
       "topics": []
     },
     {
@@ -2187,7 +2187,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-05T02:28:08Z",
+      "updated": "2026-11-06T02:27:42Z",
       "topics": []
     },
     {
@@ -2399,7 +2399,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-05T18:22:45Z",
+      "updated": "2026-11-06T18:22:24Z",
       "topics": []
     },
     {
