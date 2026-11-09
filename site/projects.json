@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-08T22:28:08.353059+00:00",
+  "synced_at": "2026-11-09T22:28:12.411280+00:00",
   "projects": [
     {
       "name": "2048",
@@ -561,7 +561,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T17:06:42Z",
+      "updated": "2026-11-09T11:37:55Z",
       "topics": []
     },
     {
@@ -1129,7 +1129,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-07T22:28:14Z",
+      "updated": "2026-11-08T22:28:09Z",
       "topics": []
     },
     {
@@ -1151,7 +1151,7 @@
       "stars": 0,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-08T17:07:18Z",
+      "updated": "2026-11-09T01:36:44Z",
       "topics": []
     },
     {
@@ -1429,7 +1429,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-07T22:34:36Z",
+      "updated": "2026-11-08T22:34:46Z",
       "topics": []
     },
     {
@@ -1437,10 +1437,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 227,
+      "stars": 225,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T15:30:23Z",
+      "updated": "2026-11-09T19:26:46Z",
       "topics": [
         "recipkg"
       ]
@@ -1453,7 +1453,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T15:25:46Z",
+      "updated": "2026-11-09T18:40:46Z",
       "topics": []
     },
     {
@@ -1479,7 +1479,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T12:28:12Z",
+      "updated": "2026-11-09T18:28:00Z",
       "topics": []
     },
     {
@@ -1539,7 +1539,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:11:36Z",
+      "updated": "2026-11-09T15:42:00Z",
       "topics": [
         "recipkg"
       ]
@@ -1552,7 +1552,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T12:06:02Z",
+      "updated": "2026-11-09T15:41:43Z",
       "topics": []
     },
     {
@@ -1607,7 +1607,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-07T03:19:18Z",
+      "updated": "2026-11-09T14:32:16Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1635,7 +1635,7 @@
       "stars": 12,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T04:04:41Z",
+      "updated": "2026-11-09T04:22:25Z",
       "topics": [
         "sing-box"
       ]
@@ -1791,7 +1791,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T11:05:09Z",
+      "updated": "2026-11-09T02:12:42Z",
       "topics": [
         "csharp",
         "headless",
@@ -1808,7 +1808,7 @@
       "stars": 23,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T17:19:51Z",
+      "updated": "2026-11-09T13:17:22Z",
       "topics": [
         "mcp",
         "oni"
@@ -2198,7 +2198,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T02:26:48Z",
+      "updated": "2026-11-09T02:28:17Z",
       "topics": []
     },
     {
@@ -2410,7 +2410,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T18:19:07Z",
+      "updated": "2026-11-09T12:25:21Z",
       "topics": []
     },
     {
@@ -2447,6 +2447,39 @@
       "topics": []
     },
     {
+      "name": "z58",
+      "url": "https://github.com/LIghtJUNction/z58",
+      "description": "Super fast base58 rust library.",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-09T16:27:59Z",
+      "topics": []
+    },
+    {
+      "name": "z64",
+      "url": "https://github.com/LIghtJUNction/z64",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-09T17:08:06Z",
+      "topics": []
+    },
+    {
+      "name": "zclap",
+      "url": "https://github.com/LIghtJUNction/zclap",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-09T18:52:45Z",
+      "topics": []
+    },
+    {
       "name": "zed",
       "url": "https://github.com/LIghtJUNction/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.--windows",
@@ -2461,6 +2494,17 @@
       ]
     },
     {
+      "name": "zhex",
+      "url": "https://github.com/LIghtJUNction/zhex",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-09T17:37:32Z",
+      "topics": []
+    },
+    {
       "name": "ZhiLianEXue-CheatProgress",
       "url": "https://github.com/LIghtJUNction/ZhiLianEXue-CheatProgress",
       "description": "python程序之速刷【智联E学】-大学生职业规划短视频观看任务",
@@ -2469,6 +2513,17 @@
       "fork": false,
       "archived": false,
       "updated": "2024-10-27T12:19:25Z",
+      "topics": []
+    },
+    {
+      "name": "zscan",
+      "url": "https://github.com/LIghtJUNction/zscan",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-09T16:58:35Z",
       "topics": []
     },
     {
