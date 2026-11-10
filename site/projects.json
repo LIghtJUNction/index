@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-09T22:28:12.411280+00:00",
+  "synced_at": "2026-11-10T22:28:32.537848+00:00",
   "projects": [
     {
       "name": "2048",
@@ -154,6 +154,17 @@
       "fork": false,
       "archived": false,
       "updated": "2026-10-18T21:52:03Z",
+      "topics": []
+    },
+    {
+      "name": "android-app-development",
+      "url": "https://github.com/LIghtJUNction/android-app-development",
+      "description": "Reusable Codex skill for Android app development (scaffold)",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T13:28:46Z",
       "topics": []
     },
     {
@@ -1129,7 +1140,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T22:28:09Z",
+      "updated": "2026-11-09T22:28:13Z",
       "topics": []
     },
     {
@@ -1151,7 +1162,7 @@
       "stars": 0,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-09T01:36:44Z",
+      "updated": "2026-11-10T15:20:12Z",
       "topics": []
     },
     {
@@ -1330,7 +1341,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-05T17:21:25Z",
+      "updated": "2026-11-10T14:33:53Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1429,7 +1440,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-08T22:34:46Z",
+      "updated": "2026-11-09T22:34:55Z",
       "topics": []
     },
     {
@@ -1437,10 +1448,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 225,
+      "stars": 226,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T19:26:46Z",
+      "updated": "2026-11-10T12:03:30Z",
       "topics": [
         "recipkg"
       ]
@@ -1453,7 +1464,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T18:40:46Z",
+      "updated": "2026-11-10T10:05:54Z",
       "topics": []
     },
     {
@@ -1479,7 +1490,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T18:28:00Z",
+      "updated": "2026-11-10T12:29:24Z",
       "topics": []
     },
     {
@@ -1607,7 +1618,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T14:32:16Z",
+      "updated": "2026-11-10T03:34:49Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1808,7 +1819,7 @@
       "stars": 23,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T13:17:22Z",
+      "updated": "2026-11-10T15:22:13Z",
       "topics": [
         "mcp",
         "oni"
@@ -2198,7 +2209,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T02:28:17Z",
+      "updated": "2026-11-10T02:26:56Z",
       "topics": []
     },
     {
@@ -2403,6 +2414,17 @@
       "topics": []
     },
     {
+      "name": "WowType",
+      "url": "https://github.com/LIghtJUNction/WowType",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-10T10:16:02Z",
+      "topics": []
+    },
+    {
       "name": "x-quality-growth",
       "url": "https://github.com/LIghtJUNction/x-quality-growth",
       "description": "RISE: recursive X and GitHub growth experiments, based on X open-source ranking code and honest quality measurement",
@@ -2410,7 +2432,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T12:25:21Z",
+      "updated": "2026-11-10T18:20:29Z",
       "topics": []
     },
     {
@@ -2454,7 +2476,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T16:27:59Z",
+      "updated": "2026-11-10T15:14:32Z",
       "topics": []
     },
     {
@@ -2465,18 +2487,55 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T17:08:06Z",
+      "updated": "2026-11-10T15:03:33Z",
+      "topics": []
+    },
+    {
+      "name": "zcall",
+      "url": "https://github.com/LIghtJUNction/zcall",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T15:22:55Z",
       "topics": []
     },
     {
       "name": "zclap",
       "url": "https://github.com/LIghtJUNction/zclap",
+      "description": "Small, allocation-free command-line parsing with borrowed events",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T15:04:58Z",
+      "topics": []
+    },
+    {
+      "name": "zconv",
+      "url": "https://github.com/LIghtJUNction/zconv",
+      "description": "Microsecond-level AI Protocol Converter",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T15:01:38Z",
+      "topics": [
+        "ai",
+        "api",
+        "api-gateway"
+      ]
+    },
+    {
+      "name": "zdwire",
+      "url": "https://github.com/LIghtJUNction/zdwire",
       "description": "",
       "language": "Rust",
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T18:52:45Z",
+      "updated": "2026-11-10T15:09:10Z",
       "topics": []
     },
     {
@@ -2501,7 +2560,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T17:37:32Z",
+      "updated": "2026-11-10T15:01:50Z",
       "topics": []
     },
     {
@@ -2516,6 +2575,28 @@
       "topics": []
     },
     {
+      "name": "zldap",
+      "url": "https://github.com/LIghtJUNction/zldap",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T15:01:04Z",
+      "topics": []
+    },
+    {
+      "name": "zmime",
+      "url": "https://github.com/LIghtJUNction/zmime",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T15:18:51Z",
+      "topics": []
+    },
+    {
       "name": "zscan",
       "url": "https://github.com/LIghtJUNction/zscan",
       "description": "",
@@ -2523,7 +2604,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T16:58:35Z",
+      "updated": "2026-11-10T15:01:08Z",
       "topics": []
     },
     {
@@ -2535,6 +2616,28 @@
       "fork": true,
       "archived": false,
       "updated": "2026-06-20T13:19:49Z",
+      "topics": []
+    },
+    {
+      "name": "zsyn",
+      "url": "https://github.com/LIghtJUNction/zsyn",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T15:08:21Z",
+      "topics": []
+    },
+    {
+      "name": "zvte",
+      "url": "https://github.com/LIghtJUNction/zvte",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-10T15:08:10Z",
       "topics": []
     }
   ]
