@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-10T22:28:32.537848+00:00",
+  "synced_at": "2026-11-11T22:27:45.523524+00:00",
   "projects": [
     {
       "name": "2048",
@@ -996,6 +996,17 @@
       "topics": []
     },
     {
+      "name": "Glasmio",
+      "url": "https://github.com/LIghtJUNction/Glasmio",
+      "description": "A Jetpack Compose UI framework bringing a faithful 1:1 recreation of iOS 27 Liquid Glass, animations, controls, and interactions to Android.",
+      "language": "Kotlin",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-11T11:35:30Z",
+      "topics": []
+    },
+    {
       "name": "go.lmm.best",
       "url": "https://github.com/LIghtJUNction/go.lmm.best",
       "description": "Human vs. AI Go, powered by WebMCP",
@@ -1140,7 +1151,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T22:28:13Z",
+      "updated": "2026-11-10T22:28:33Z",
       "topics": []
     },
     {
@@ -1162,7 +1173,7 @@
       "stars": 0,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-10T15:20:12Z",
+      "updated": "2026-11-11T18:46:35Z",
       "topics": []
     },
     {
@@ -1341,7 +1352,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T14:33:53Z",
+      "updated": "2026-11-11T14:40:16Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1422,6 +1433,17 @@
       "topics": []
     },
     {
+      "name": "lucide-compose",
+      "url": "https://github.com/LIghtJUNction/lucide-compose",
+      "description": "Bring Lucide Icons to Jetpack Compose Multiplatform.",
+      "language": "Kotlin",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-11T05:59:38Z",
+      "topics": []
+    },
+    {
       "name": "MagicBox",
       "url": "https://github.com/LIghtJUNction/MagicBox",
       "description": "ohhhh.",
@@ -1440,7 +1462,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T22:34:55Z",
+      "updated": "2026-11-10T22:34:39Z",
       "topics": []
     },
     {
@@ -1448,10 +1470,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 226,
+      "stars": 229,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T12:03:30Z",
+      "updated": "2026-11-11T08:41:03Z",
       "topics": [
         "recipkg"
       ]
@@ -1464,7 +1486,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T10:05:54Z",
+      "updated": "2026-11-11T07:54:13Z",
       "topics": []
     },
     {
@@ -1490,7 +1512,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T12:29:24Z",
+      "updated": "2026-11-11T18:27:16Z",
       "topics": []
     },
     {
@@ -1674,6 +1696,17 @@
       "topics": []
     },
     {
+      "name": "miuix",
+      "url": "https://github.com/LIghtJUNction/miuix",
+      "description": "A UI library for Compose Multiplatform",
+      "language": "Kotlin",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-11T06:05:54Z",
+      "topics": []
+    },
+    {
       "name": "module_release",
       "url": "https://github.com/LIghtJUNction/module_release",
       "description": "Release a ksu module",
@@ -1802,7 +1835,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T02:12:42Z",
+      "updated": "2026-11-11T18:47:26Z",
       "topics": [
         "csharp",
         "headless",
@@ -1816,10 +1849,10 @@
       "url": "https://github.com/LIghtJUNction/OniMods",
       "description": "oxygen not included",
       "language": "C#",
-      "stars": 23,
+      "stars": 24,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:22:13Z",
+      "updated": "2026-11-11T18:47:39Z",
       "topics": [
         "mcp",
         "oni"
@@ -1933,6 +1966,17 @@
       "fork": true,
       "archived": false,
       "updated": "2026-06-14T21:47:33Z",
+      "topics": []
+    },
+    {
+      "name": "paperclay-slides-skill",
+      "url": "https://github.com/LIghtJUNction/paperclay-slides-skill",
+      "description": "",
+      "language": "Python",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-11T18:25:50Z",
       "topics": []
     },
     {
@@ -2209,7 +2253,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T02:26:56Z",
+      "updated": "2026-11-11T02:25:38Z",
       "topics": []
     },
     {
@@ -2432,7 +2476,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T18:20:29Z",
+      "updated": "2026-11-11T18:20:08Z",
       "topics": []
     },
     {
@@ -2476,7 +2520,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:14:32Z",
+      "updated": "2026-11-11T02:56:10Z",
       "topics": []
     },
     {
@@ -2487,18 +2531,18 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:03:33Z",
+      "updated": "2026-11-11T03:00:25Z",
       "topics": []
     },
     {
       "name": "zcall",
       "url": "https://github.com/LIghtJUNction/zcall",
-      "description": "",
+      "description": "A protocol-independent, caller-buffered AI call kernel for harness software.",
       "language": "Rust",
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:22:55Z",
+      "updated": "2026-11-11T10:54:50Z",
       "topics": []
     },
     {
@@ -2509,7 +2553,18 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:04:58Z",
+      "updated": "2026-11-11T02:49:03Z",
+      "topics": []
+    },
+    {
+      "name": "zclick",
+      "url": "https://github.com/LIghtJUNction/zclick",
+      "description": "An extremely fast Python library for building command-line applications.",
+      "language": "HTML",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-11T16:16:04Z",
       "topics": []
     },
     {
@@ -2520,7 +2575,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:01:38Z",
+      "updated": "2026-11-11T02:52:08Z",
       "topics": [
         "ai",
         "api",
@@ -2535,7 +2590,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:09:10Z",
+      "updated": "2026-11-11T02:57:49Z",
       "topics": []
     },
     {
@@ -2553,6 +2608,17 @@
       ]
     },
     {
+      "name": "zharness",
+      "url": "https://github.com/LIghtJUNction/zharness",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-11T19:56:35Z",
+      "topics": []
+    },
+    {
       "name": "zhex",
       "url": "https://github.com/LIghtJUNction/zhex",
       "description": "",
@@ -2560,7 +2626,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:01:50Z",
+      "updated": "2026-11-11T02:46:56Z",
       "topics": []
     },
     {
@@ -2582,7 +2648,18 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:01:04Z",
+      "updated": "2026-11-11T02:58:50Z",
+      "topics": []
+    },
+    {
+      "name": "zmcpio",
+      "url": "https://github.com/LIghtJUNction/zmcpio",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-11T14:35:59Z",
       "topics": []
     },
     {
@@ -2593,7 +2670,18 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:18:51Z",
+      "updated": "2026-11-11T02:59:16Z",
+      "topics": []
+    },
+    {
+      "name": "zplugin",
+      "url": "https://github.com/LIghtJUNction/zplugin",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-11T18:05:06Z",
       "topics": []
     },
     {
@@ -2604,7 +2692,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:01:08Z",
+      "updated": "2026-11-11T02:46:33Z",
       "topics": []
     },
     {
@@ -2626,7 +2714,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:08:21Z",
+      "updated": "2026-11-11T02:53:29Z",
       "topics": []
     },
     {
@@ -2637,7 +2725,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T15:08:10Z",
+      "updated": "2026-11-11T02:51:40Z",
       "topics": []
     }
   ]
