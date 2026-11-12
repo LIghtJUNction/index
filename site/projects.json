@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-11T22:27:45.523524+00:00",
+  "synced_at": "2026-11-12T13:52:24.873074+00:00",
   "projects": [
     {
       "name": "2048",
@@ -32,7 +32,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-15T17:13:08Z",
+      "updated": "2026-11-12T13:43:26Z",
       "topics": []
     },
     {
@@ -337,10 +337,10 @@
       "url": "https://github.com/LIghtJUNction/asl-ksu",
       "description": "AndroidSubSystem4GNU/Linux",
       "language": "Shell",
-      "stars": 57,
+      "stars": 58,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-30T09:50:27Z",
+      "updated": "2026-11-12T13:48:23Z",
       "topics": [
         "kam",
         "kernelsu"
@@ -517,7 +517,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T15:34:08Z",
+      "updated": "2026-11-12T13:48:46Z",
       "topics": []
     },
     {
@@ -572,7 +572,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-09T11:37:55Z",
+      "updated": "2026-11-12T13:50:58Z",
       "topics": []
     },
     {
@@ -605,7 +605,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T08:59:54Z",
+      "updated": "2026-11-12T13:48:54Z",
       "topics": []
     },
     {
@@ -654,7 +654,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-30T10:00:56Z",
+      "updated": "2026-11-12T13:40:32Z",
       "topics": []
     },
     {
@@ -720,7 +720,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-30T09:55:16Z",
+      "updated": "2026-11-12T13:48:28Z",
       "topics": []
     },
     {
@@ -742,7 +742,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:04:26Z",
+      "updated": "2026-11-12T13:45:56Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -756,7 +756,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:04:21Z",
+      "updated": "2026-11-12T13:45:49Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -781,7 +781,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:04:26Z",
+      "updated": "2026-11-12T13:46:16Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -795,7 +795,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:04:23Z",
+      "updated": "2026-11-12T13:45:46Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -809,7 +809,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:07:29Z",
+      "updated": "2026-11-12T13:46:42Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -823,7 +823,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:39:36Z",
+      "updated": "2026-11-12T13:47:15Z",
       "topics": []
     },
     {
@@ -834,7 +834,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:04:26Z",
+      "updated": "2026-11-12T13:46:11Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -848,7 +848,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:04:21Z",
+      "updated": "2026-11-12T13:45:31Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -862,7 +862,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:04:24Z",
+      "updated": "2026-11-12T13:45:51Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -876,7 +876,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:07:29Z",
+      "updated": "2026-11-12T13:46:19Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -890,7 +890,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T07:07:29Z",
+      "updated": "2026-11-12T13:46:22Z",
       "topics": [
         "deepseek-harness",
         "dsh-plugin"
@@ -904,7 +904,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-08-03T19:44:23Z",
+      "updated": "2026-11-12T13:51:03Z",
       "topics": []
     },
     {
@@ -992,7 +992,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-01T14:31:57Z",
+      "updated": "2026-11-12T13:50:33Z",
       "topics": []
     },
     {
@@ -1003,7 +1003,7 @@
       "stars": 0,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-11T11:35:30Z",
+      "updated": "2026-11-12T10:08:45Z",
       "topics": []
     },
     {
@@ -1140,7 +1140,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-26T15:21:53Z",
+      "updated": "2026-11-12T13:44:52Z",
       "topics": []
     },
     {
@@ -1151,7 +1151,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T22:28:33Z",
+      "updated": "2026-11-12T13:45:19Z",
       "topics": []
     },
     {
@@ -1283,7 +1283,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T18:18:03Z",
+      "updated": "2026-11-12T13:50:35Z",
       "topics": [
         "agent",
         "workflow"
@@ -1308,7 +1308,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-02T08:26:58Z",
+      "updated": "2026-11-12T13:51:24Z",
       "topics": []
     },
     {
@@ -1352,7 +1352,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T14:40:16Z",
+      "updated": "2026-11-12T12:46:47Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1374,7 +1374,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-03T10:21:04Z",
+      "updated": "2026-11-12T13:50:52Z",
       "topics": []
     },
     {
@@ -1451,7 +1451,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-30T09:58:11Z",
+      "updated": "2026-11-12T13:50:30Z",
       "topics": []
     },
     {
@@ -1462,7 +1462,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T22:34:39Z",
+      "updated": "2026-11-11T22:34:57Z",
       "topics": []
     },
     {
@@ -1473,7 +1473,7 @@
       "stars": 229,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T08:41:03Z",
+      "updated": "2026-11-12T13:06:34Z",
       "topics": [
         "recipkg"
       ]
@@ -1486,7 +1486,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T07:54:13Z",
+      "updated": "2026-11-12T13:00:47Z",
       "topics": []
     },
     {
@@ -1512,7 +1512,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T18:27:16Z",
+      "updated": "2026-11-12T12:31:14Z",
       "topics": []
     },
     {
@@ -1556,7 +1556,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-30T09:57:08Z",
+      "updated": "2026-11-12T13:44:50Z",
       "topics": [
         "context-management",
         "magpie",
@@ -1596,7 +1596,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-26T22:52:44Z",
+      "updated": "2026-11-12T13:49:40Z",
       "topics": []
     },
     {
@@ -1640,7 +1640,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-10T03:34:49Z",
+      "updated": "2026-11-12T13:38:27Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1852,7 +1852,7 @@
       "stars": 24,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T18:47:39Z",
+      "updated": "2026-11-12T13:48:26Z",
       "topics": [
         "mcp",
         "oni"
@@ -2031,7 +2031,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-01T05:55:14Z",
+      "updated": "2026-11-12T13:44:55Z",
       "topics": []
     },
     {
@@ -2165,7 +2165,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-29T10:45:43Z",
+      "updated": "2026-11-12T13:46:55Z",
       "topics": []
     },
     {
@@ -2209,7 +2209,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-30T09:59:32Z",
+      "updated": "2026-11-12T13:40:24Z",
       "topics": []
     },
     {
@@ -2253,7 +2253,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T02:25:38Z",
+      "updated": "2026-11-12T13:39:49Z",
       "topics": []
     },
     {
@@ -2319,7 +2319,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-20T15:06:19Z",
+      "updated": "2026-11-12T13:49:23Z",
       "topics": []
     },
     {
@@ -2429,7 +2429,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-09-28T14:18:37Z",
+      "updated": "2026-11-12T13:40:26Z",
       "topics": [
         "minecraft",
         "shader"
@@ -2454,7 +2454,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-04T02:01:05Z",
+      "updated": "2026-11-12T13:49:15Z",
       "topics": []
     },
     {
@@ -2476,7 +2476,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T18:20:08Z",
+      "updated": "2026-11-12T13:51:54Z",
       "topics": []
     },
     {
@@ -2531,7 +2531,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T03:00:25Z",
+      "updated": "2026-11-12T13:40:29Z",
       "topics": []
     },
     {
@@ -2542,7 +2542,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T10:54:50Z",
+      "updated": "2026-11-12T12:52:21Z",
       "topics": []
     },
     {
@@ -2575,7 +2575,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T02:52:08Z",
+      "updated": "2026-11-12T12:41:16Z",
       "topics": [
         "ai",
         "api",
@@ -2615,7 +2615,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T19:56:35Z",
+      "updated": "2026-11-12T13:39:29Z",
       "topics": []
     },
     {
@@ -2648,7 +2648,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T02:58:50Z",
+      "updated": "2026-11-12T13:39:46Z",
       "topics": []
     },
     {
@@ -2659,7 +2659,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T14:35:59Z",
+      "updated": "2026-11-12T13:39:24Z",
       "topics": []
     },
     {
@@ -2670,7 +2670,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T02:59:16Z",
+      "updated": "2026-11-12T13:49:20Z",
       "topics": []
     },
     {
@@ -2681,7 +2681,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T18:05:06Z",
+      "updated": "2026-11-12T09:42:00Z",
       "topics": []
     },
     {
@@ -2718,6 +2718,17 @@
       "topics": []
     },
     {
+      "name": "zsys",
+      "url": "https://github.com/LIghtJUNction/zsys",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-12T13:50:12Z",
+      "topics": []
+    },
+    {
       "name": "zvte",
       "url": "https://github.com/LIghtJUNction/zvte",
       "description": "",
@@ -2725,7 +2736,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T02:51:40Z",
+      "updated": "2026-11-12T13:44:17Z",
       "topics": []
     }
   ]
