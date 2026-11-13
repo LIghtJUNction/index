@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-12T22:27:43.997756+00:00",
+  "synced_at": "2026-11-13T22:28:39.403435+00:00",
   "projects": [
     {
       "name": "2048",
@@ -32,7 +32,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:43:26Z",
+      "updated": "2026-11-13T06:05:40Z",
       "topics": []
     },
     {
@@ -154,6 +154,17 @@
       "fork": false,
       "archived": false,
       "updated": "2026-10-18T21:52:03Z",
+      "topics": []
+    },
+    {
+      "name": "AliLoginCompat",
+      "url": "https://github.com/LIghtJUNction/AliLoginCompat",
+      "description": "Experimental LSPosed / Vector WUA compatibility module for selected Taobao and Idlefish security libraries",
+      "language": "Java",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-13T21:25:10Z",
       "topics": []
     },
     {
@@ -311,6 +322,17 @@
       "topics": []
     },
     {
+      "name": "art-fd-rebind",
+      "url": "https://github.com/LIghtJUNction/art-fd-rebind",
+      "description": "Experimental opt-in Zygisk ART descriptor namespace rebind; Native Detector 7.7 Magic Mount remains",
+      "language": "C++",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-13T16:35:10Z",
+      "topics": []
+    },
+    {
       "name": "ascii-morph-gif",
       "url": "https://github.com/LIghtJUNction/ascii-morph-gif",
       "description": "A Codex skill for clean looping ASCII morph GIFs. No watermarks, captions or footers.",
@@ -378,7 +400,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:56:46Z",
+      "updated": "2026-11-13T06:03:09Z",
       "topics": [
         "license",
         "licenses"
@@ -631,6 +653,28 @@
       "topics": []
     },
     {
+      "name": "coolapk-cli",
+      "url": "https://github.com/LIghtJUNction/coolapk-cli",
+      "description": "Standalone Rust CLI for Coolapk — search, browse, authenticate and post with JSON output",
+      "language": "Rust",
+      "stars": 3,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-13T12:30:59Z",
+      "topics": []
+    },
+    {
+      "name": "coolapk-skills",
+      "url": "https://github.com/LIghtJUNction/coolapk-skills",
+      "description": "从酷安技术资料整理的通用技能：版本、机型、操作、公开资源与证据边界；不分发原始采集数据",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-13T22:23:00Z",
+      "topics": []
+    },
+    {
       "name": "cortexfs",
       "url": "https://github.com/LIghtJUNction/cortexfs",
       "description": "“Everything is a file” for the AGI era — an agent framework masquerading as a POSIX file system for LLM context, memory, and reasoning.",
@@ -654,7 +698,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:40:32Z",
+      "updated": "2026-11-13T06:05:38Z",
       "topics": []
     },
     {
@@ -665,7 +709,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-10-03T02:54:09Z",
+      "updated": "2026-11-13T06:04:20Z",
       "topics": []
     },
     {
@@ -1151,7 +1195,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:58:20Z",
+      "updated": "2026-11-12T22:27:45Z",
       "topics": []
     },
     {
@@ -1173,7 +1217,7 @@
       "stars": 0,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-11T18:46:35Z",
+      "updated": "2026-11-13T14:48:04Z",
       "topics": []
     },
     {
@@ -1283,7 +1327,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:57:07Z",
+      "updated": "2026-11-13T06:02:31Z",
       "topics": [
         "agent",
         "workflow"
@@ -1308,7 +1352,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:51:24Z",
+      "updated": "2026-11-13T06:06:44Z",
       "topics": []
     },
     {
@@ -1319,7 +1363,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-07-26T17:26:47Z",
+      "updated": "2026-11-13T06:02:40Z",
       "topics": []
     },
     {
@@ -1352,7 +1396,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:50:33Z",
+      "updated": "2026-11-13T12:50:50Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1374,7 +1418,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:50:52Z",
+      "updated": "2026-11-13T18:57:47Z",
       "topics": []
     },
     {
@@ -1444,6 +1488,17 @@
       "topics": []
     },
     {
+      "name": "Magicap",
+      "url": "https://github.com/LIghtJUNction/Magicap",
+      "description": "Android Root traffic inspector with per-device CA, WebUI, CLI and default-off MCP",
+      "language": "Shell",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-13T10:43:00Z",
+      "topics": []
+    },
+    {
       "name": "MagicBox",
       "url": "https://github.com/LIghtJUNction/MagicBox",
       "description": "ohhhh.",
@@ -1462,7 +1517,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:57:19Z",
+      "updated": "2026-11-12T22:35:16Z",
       "topics": []
     },
     {
@@ -1470,10 +1525,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 228,
+      "stars": 227,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:44:25Z",
+      "updated": "2026-11-13T12:41:01Z",
       "topics": [
         "recipkg"
       ]
@@ -1486,7 +1541,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:58:57Z",
+      "updated": "2026-11-13T12:35:56Z",
       "topics": []
     },
     {
@@ -1512,7 +1567,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:50:47Z",
+      "updated": "2026-11-13T12:31:10Z",
       "topics": []
     },
     {
@@ -1556,7 +1611,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:53:10Z",
+      "updated": "2026-11-13T19:29:21Z",
       "topics": [
         "context-management",
         "magpie",
@@ -1835,7 +1890,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T18:47:26Z",
+      "updated": "2026-11-13T19:15:41Z",
       "topics": [
         "csharp",
         "headless",
@@ -1849,10 +1904,10 @@
       "url": "https://github.com/LIghtJUNction/OniMods",
       "description": "oxygen not included",
       "language": "C#",
-      "stars": 24,
+      "stars": 25,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:44:18Z",
+      "updated": "2026-11-13T19:19:31Z",
       "topics": [
         "mcp",
         "oni"
@@ -2209,7 +2264,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:40:24Z",
+      "updated": "2026-11-13T06:05:32Z",
       "topics": []
     },
     {
@@ -2253,7 +2308,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:39:49Z",
+      "updated": "2026-11-13T02:25:27Z",
       "topics": []
     },
     {
@@ -2429,7 +2484,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:40:26Z",
+      "updated": "2026-11-13T06:05:35Z",
       "topics": [
         "minecraft",
         "shader"
@@ -2476,7 +2531,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T18:21:49Z",
+      "updated": "2026-11-13T18:19:40Z",
       "topics": []
     },
     {
@@ -2564,7 +2619,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T16:16:04Z",
+      "updated": "2026-11-13T06:33:05Z",
       "topics": []
     },
     {
@@ -2615,7 +2670,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:39:11Z",
+      "updated": "2026-11-13T08:02:58Z",
       "topics": []
     },
     {
@@ -2681,7 +2736,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:39:25Z",
+      "updated": "2026-11-13T07:11:18Z",
       "topics": []
     },
     {
