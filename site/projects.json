@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-13T22:28:39.403435+00:00",
+  "synced_at": "2026-11-14T22:27:47.734521+00:00",
   "projects": [
     {
       "name": "2048",
@@ -164,7 +164,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T21:25:10Z",
+      "updated": "2026-11-14T13:47:50Z",
       "topics": []
     },
     {
@@ -668,10 +668,10 @@
       "url": "https://github.com/LIghtJUNction/coolapk-skills",
       "description": "从酷安技术资料整理的通用技能：版本、机型、操作、公开资源与证据边界；不分发原始采集数据",
       "language": "Other",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T22:23:00Z",
+      "updated": "2026-11-14T18:31:48Z",
       "topics": []
     },
     {
@@ -764,7 +764,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:48:28Z",
+      "updated": "2026-11-14T05:00:27Z",
       "topics": []
     },
     {
@@ -1195,7 +1195,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T22:27:45Z",
+      "updated": "2026-11-13T22:28:40Z",
       "topics": []
     },
     {
@@ -1517,7 +1517,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T22:35:16Z",
+      "updated": "2026-11-13T22:34:27Z",
       "topics": []
     },
     {
@@ -1525,10 +1525,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 227,
+      "stars": 228,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T12:41:01Z",
+      "updated": "2026-11-14T01:06:04Z",
       "topics": [
         "recipkg"
       ]
@@ -1567,7 +1567,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T12:31:10Z",
+      "updated": "2026-11-14T18:26:11Z",
       "topics": []
     },
     {
@@ -1611,7 +1611,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T19:29:21Z",
+      "updated": "2026-11-14T13:28:27Z",
       "topics": [
         "context-management",
         "magpie",
@@ -1695,7 +1695,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T13:38:27Z",
+      "updated": "2026-11-14T16:14:59Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1907,7 +1907,7 @@
       "stars": 25,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T19:19:31Z",
+      "updated": "2026-11-14T16:50:40Z",
       "topics": [
         "mcp",
         "oni"
@@ -2308,7 +2308,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T02:25:27Z",
+      "updated": "2026-11-14T02:26:35Z",
       "topics": []
     },
     {
@@ -2531,7 +2531,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T18:19:40Z",
+      "updated": "2026-11-14T18:19:12Z",
       "topics": []
     },
     {
