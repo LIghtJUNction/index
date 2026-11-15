@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-14T22:27:47.734521+00:00",
+  "synced_at": "2026-11-15T22:28:13.460845+00:00",
   "projects": [
     {
       "name": "2048",
@@ -164,8 +164,21 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-14T13:47:50Z",
-      "topics": []
+      "updated": "2026-11-15T06:11:24Z",
+      "topics": [
+        "android",
+        "arm64",
+        "idlefish",
+        "kernelsu",
+        "lsposed",
+        "lsposed-module",
+        "magisk",
+        "native-hook",
+        "taobao",
+        "xianyu",
+        "xposed",
+        "xposed-module"
+      ]
     },
     {
       "name": "android-app-development",
@@ -297,6 +310,17 @@
       "fork": true,
       "archived": true,
       "updated": "2026-09-16T17:55:29Z",
+      "topics": []
+    },
+    {
+      "name": "apk2cli",
+      "url": "https://github.com/LIghtJUNction/apk2cli",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-15T10:19:29Z",
       "topics": []
     },
     {
@@ -671,7 +695,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-14T18:31:48Z",
+      "updated": "2026-11-15T11:55:28Z",
       "topics": []
     },
     {
@@ -764,7 +788,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-14T05:00:27Z",
+      "updated": "2026-11-15T15:24:04Z",
       "topics": []
     },
     {
@@ -1195,7 +1219,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T22:28:40Z",
+      "updated": "2026-11-14T22:27:48Z",
       "topics": []
     },
     {
@@ -1492,7 +1516,7 @@
       "url": "https://github.com/LIghtJUNction/Magicap",
       "description": "Android Root traffic inspector with per-device CA, WebUI, CLI and default-off MCP",
       "language": "Shell",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
       "updated": "2026-11-13T10:43:00Z",
@@ -1517,7 +1541,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T22:34:27Z",
+      "updated": "2026-11-14T22:34:42Z",
       "topics": []
     },
     {
@@ -1525,10 +1549,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 228,
+      "stars": 233,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-14T01:06:04Z",
+      "updated": "2026-11-15T15:40:58Z",
       "topics": [
         "recipkg"
       ]
@@ -1538,10 +1562,10 @@
       "url": "https://github.com/LIghtJUNction/magicnet-android",
       "description": "MagicNet Android implementation source, pinned by the MagicNet recipe repository.",
       "language": "Rust",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T12:35:56Z",
+      "updated": "2026-11-15T15:27:36Z",
       "topics": []
     },
     {
@@ -1567,7 +1591,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-14T18:26:11Z",
+      "updated": "2026-11-15T18:26:15Z",
       "topics": []
     },
     {
@@ -1578,7 +1602,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-07T02:12:13Z",
+      "updated": "2026-11-15T06:41:43Z",
       "topics": []
     },
     {
@@ -2283,7 +2307,7 @@
       "url": "https://github.com/LIghtJUNction/sing-box",
       "description": "The universal proxy platform",
       "language": "Go",
-      "stars": 2,
+      "stars": 3,
       "fork": true,
       "archived": false,
       "updated": "2026-11-07T02:23:48Z",
@@ -2308,7 +2332,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-14T02:26:35Z",
+      "updated": "2026-11-15T02:27:54Z",
       "topics": []
     },
     {
@@ -2375,6 +2399,17 @@
       "fork": false,
       "archived": false,
       "updated": "2026-11-12T15:55:47Z",
+      "topics": []
+    },
+    {
+      "name": "ssmcp",
+      "url": "https://github.com/LIghtJUNction/ssmcp",
+      "description": "👀",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-15T22:00:26Z",
       "topics": []
     },
     {
@@ -2520,7 +2555,7 @@
       "stars": 0,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-10T10:16:02Z",
+      "updated": "2026-11-15T05:25:30Z",
       "topics": []
     },
     {
@@ -2531,7 +2566,18 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-14T18:19:12Z",
+      "updated": "2026-11-15T18:19:36Z",
+      "topics": []
+    },
+    {
+      "name": "x-skills",
+      "url": "https://github.com/LIghtJUNction/x-skills",
+      "description": "从 X 高质量工程帖提炼的可复用技术技能库：严格准入、分类清晰；不含原始采集与进度日志。",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-15T11:56:17Z",
       "topics": []
     },
     {
@@ -2597,7 +2643,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:39:59Z",
+      "updated": "2026-11-15T09:25:23Z",
       "topics": []
     },
     {
@@ -2630,7 +2676,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:44:33Z",
+      "updated": "2026-11-15T09:53:46Z",
       "topics": [
         "ai",
         "api",
@@ -2670,7 +2716,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T08:02:58Z",
+      "updated": "2026-11-15T09:50:48Z",
       "topics": []
     },
     {
@@ -2714,7 +2760,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:39:51Z",
+      "updated": "2026-11-15T09:31:24Z",
       "topics": []
     },
     {
