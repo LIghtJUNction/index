@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-16T22:28:10.559634+00:00",
+  "synced_at": "2026-11-17T22:28:08.775490+00:00",
   "projects": [
     {
       "name": "2048",
@@ -164,7 +164,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T18:31:52Z",
+      "updated": "2026-11-17T07:14:04Z",
       "topics": [
         "android",
         "arm64",
@@ -748,6 +748,17 @@
       "topics": []
     },
     {
+      "name": "dessa",
+      "url": "https://github.com/LIghtJUNction/dessa",
+      "description": "dessa cli",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-17T13:44:25Z",
+      "topics": []
+    },
+    {
       "name": "dirmap",
       "url": "https://github.com/LIghtJUNction/dirmap",
       "description": "An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。",
@@ -796,7 +807,7 @@
       "url": "https://github.com/LIghtJUNction/douyin",
       "description": "抖音非官方sdk/命令行工具",
       "language": "Rust",
-      "stars": 4,
+      "stars": 5,
       "fork": false,
       "archived": false,
       "updated": "2026-11-16T18:16:56Z",
@@ -1006,6 +1017,17 @@
       "fork": true,
       "archived": false,
       "updated": "2026-06-09T21:39:45Z",
+      "topics": []
+    },
+    {
+      "name": "fkclaude",
+      "url": "https://github.com/LIghtJUNction/fkclaude",
+      "description": "",
+      "language": "Java",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-17T04:30:44Z",
       "topics": []
     },
     {
@@ -1219,7 +1241,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:52:42Z",
+      "updated": "2026-11-17T09:20:21Z",
       "topics": []
     },
     {
@@ -1230,7 +1252,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-15T22:28:14Z",
+      "updated": "2026-11-16T22:28:11Z",
       "topics": []
     },
     {
@@ -1431,7 +1453,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T17:22:15Z",
+      "updated": "2026-11-17T06:12:45Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1552,7 +1574,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-15T22:34:45Z",
+      "updated": "2026-11-16T22:35:01Z",
       "topics": []
     },
     {
@@ -1560,10 +1582,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 233,
+      "stars": 234,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T19:54:50Z",
+      "updated": "2026-11-17T21:51:25Z",
       "topics": [
         "recipkg"
       ]
@@ -1576,7 +1598,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T19:07:19Z",
+      "updated": "2026-11-17T21:00:44Z",
       "topics": []
     },
     {
@@ -1602,7 +1624,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T12:38:48Z",
+      "updated": "2026-11-17T12:31:13Z",
       "topics": []
     },
     {
@@ -2198,7 +2220,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-01T15:14:07Z",
+      "updated": "2026-11-17T14:34:13Z",
       "topics": []
     },
     {
@@ -2321,7 +2343,7 @@
       "stars": 3,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-07T02:23:48Z",
+      "updated": "2026-11-17T20:07:09Z",
       "topics": []
     },
     {
@@ -2343,7 +2365,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T02:29:42Z",
+      "updated": "2026-11-17T02:28:33Z",
       "topics": []
     },
     {
@@ -2420,7 +2442,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T20:10:27Z",
+      "updated": "2026-11-17T22:27:53Z",
       "topics": [
         "agent"
       ]
@@ -2579,7 +2601,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T18:22:32Z",
+      "updated": "2026-11-17T18:22:15Z",
       "topics": []
     },
     {
@@ -2587,7 +2609,7 @@
       "url": "https://github.com/LIghtJUNction/x-skills",
       "description": "从 X 高质量工程帖提炼的可复用技术技能库：严格准入、分类清晰；不含原始采集与进度日志。",
       "language": "Other",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
       "updated": "2026-11-15T11:56:17Z",
@@ -2840,6 +2862,17 @@
       "fork": false,
       "archived": false,
       "updated": "2026-11-12T15:39:13Z",
+      "topics": []
+    },
+    {
+      "name": "ztty",
+      "url": "https://github.com/LIghtJUNction/ztty",
+      "description": "A lean no_std Rust terminal for Linux, built on Project Z.",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-17T22:23:28Z",
       "topics": []
     },
     {
