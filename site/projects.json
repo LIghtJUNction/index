@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-17T22:28:08.775490+00:00",
+  "synced_at": "2026-11-18T22:27:57.773727+00:00",
   "projects": [
     {
       "name": "2048",
@@ -810,7 +810,7 @@
       "stars": 5,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T18:16:56Z",
+      "updated": "2026-11-18T09:02:32Z",
       "topics": []
     },
     {
@@ -1252,7 +1252,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T22:28:11Z",
+      "updated": "2026-11-17T22:28:09Z",
       "topics": []
     },
     {
@@ -1574,7 +1574,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T22:35:01Z",
+      "updated": "2026-11-17T22:35:24Z",
       "topics": []
     },
     {
@@ -1582,10 +1582,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 234,
+      "stars": 236,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T21:51:25Z",
+      "updated": "2026-11-18T19:44:59Z",
       "topics": [
         "recipkg"
       ]
@@ -1598,7 +1598,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T21:00:44Z",
+      "updated": "2026-11-18T17:58:53Z",
       "topics": []
     },
     {
@@ -1624,7 +1624,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T12:31:13Z",
+      "updated": "2026-11-18T18:26:49Z",
       "topics": []
     },
     {
@@ -1665,7 +1665,7 @@
       "url": "https://github.com/LIghtJUNction/magpie-context-folding",
       "description": "Reversible, agent-directed context folding for Magpie with cache-aware cost guards",
       "language": "TypeScript",
-      "stars": 3,
+      "stars": 4,
       "fork": false,
       "archived": false,
       "updated": "2026-11-14T13:28:27Z",
@@ -2365,7 +2365,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T02:28:33Z",
+      "updated": "2026-11-18T02:28:32Z",
       "topics": []
     },
     {
@@ -2442,7 +2442,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T22:27:53Z",
+      "updated": "2026-11-18T21:20:35Z",
       "topics": [
         "agent"
       ]
@@ -2601,7 +2601,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T18:22:15Z",
+      "updated": "2026-11-18T18:20:22Z",
       "topics": []
     },
     {
@@ -2872,7 +2872,18 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T22:23:28Z",
+      "updated": "2026-11-18T21:57:25Z",
+      "topics": []
+    },
+    {
+      "name": "ztui",
+      "url": "https://github.com/LIghtJUNction/ztui",
+      "description": "Dependency-free no_std text layout, terminal geometry, and ANSI frame-diff primitives.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-18T16:15:56Z",
       "topics": []
     },
     {
