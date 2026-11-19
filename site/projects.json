@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-18T22:27:57.773727+00:00",
+  "synced_at": "2026-11-19T22:27:53.115393+00:00",
   "projects": [
     {
       "name": "2048",
@@ -139,7 +139,7 @@
       "url": "https://github.com/LIghtJUNction/AGENTS.md",
       "description": "The prompt with the best effect was identified through experimental testing.",
       "language": "Other",
-      "stars": 2,
+      "stars": 1,
       "fork": false,
       "archived": false,
       "updated": "2026-10-30T10:01:30Z",
@@ -161,10 +161,10 @@
       "url": "https://github.com/LIghtJUNction/AliLoginCompat",
       "description": "Experimental LSPosed / Vector WUA compatibility module for selected Taobao and Idlefish security libraries",
       "language": "Java",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T07:14:04Z",
+      "updated": "2026-11-19T21:15:32Z",
       "topics": [
         "android",
         "arm64",
@@ -810,7 +810,7 @@
       "stars": 5,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T09:02:32Z",
+      "updated": "2026-11-19T16:34:25Z",
       "topics": []
     },
     {
@@ -1027,7 +1027,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T04:30:44Z",
+      "updated": "2026-11-19T22:13:17Z",
       "topics": []
     },
     {
@@ -1252,7 +1252,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T22:28:09Z",
+      "updated": "2026-11-18T22:27:58Z",
       "topics": []
     },
     {
@@ -1274,7 +1274,7 @@
       "stars": 0,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-13T14:48:04Z",
+      "updated": "2026-11-19T22:01:39Z",
       "topics": []
     },
     {
@@ -1449,11 +1449,11 @@
       "name": "lightjunction",
       "url": "https://github.com/LIghtJUNction/lightjunction",
       "description": "I'M LIghtJUNction",
-      "language": "JavaScript",
+      "language": "Python",
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T06:12:45Z",
+      "updated": "2026-11-19T17:01:25Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1574,7 +1574,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-17T22:35:24Z",
+      "updated": "2026-11-18T22:35:26Z",
       "topics": []
     },
     {
@@ -1585,7 +1585,7 @@
       "stars": 236,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T19:44:59Z",
+      "updated": "2026-11-19T12:34:29Z",
       "topics": [
         "recipkg"
       ]
@@ -1598,7 +1598,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T17:58:53Z",
+      "updated": "2026-11-19T09:45:24Z",
       "topics": []
     },
     {
@@ -1624,7 +1624,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T18:26:49Z",
+      "updated": "2026-11-19T18:29:34Z",
       "topics": []
     },
     {
@@ -1773,6 +1773,17 @@
       "topics": []
     },
     {
+      "name": "mihomo-party-ghproxy-git",
+      "url": "https://github.com/LIghtJUNction/mihomo-party-ghproxy-git",
+      "description": "",
+      "language": "Shell",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T10:25:06Z",
+      "topics": []
+    },
+    {
       "name": "Mimic-Node",
       "url": "https://github.com/LIghtJUNction/Mimic-Node",
       "description": "VLESS + Reality + Hysteria2 + XTLS-Vision/xhttp",
@@ -1874,6 +1885,17 @@
       "topics": []
     },
     {
+      "name": "oh-my-ztty",
+      "url": "https://github.com/LIghtJUNction/oh-my-ztty",
+      "description": "A lean, AI-native Linux terminal suite built on Project Z",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:24:31Z",
+      "topics": []
+    },
+    {
       "name": "ollama",
       "url": "https://github.com/LIghtJUNction/ollama",
       "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
@@ -1947,7 +1969,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T19:15:41Z",
+      "updated": "2026-11-19T17:46:28Z",
       "topics": [
         "csharp",
         "headless",
@@ -1964,7 +1986,7 @@
       "stars": 25,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-16T07:02:21Z",
+      "updated": "2026-11-19T22:12:18Z",
       "topics": [
         "mcp",
         "oni"
@@ -2365,7 +2387,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T02:28:32Z",
+      "updated": "2026-11-19T02:28:17Z",
       "topics": []
     },
     {
@@ -2442,7 +2464,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T21:20:35Z",
+      "updated": "2026-11-19T22:27:20Z",
       "topics": [
         "agent"
       ]
@@ -2601,7 +2623,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T18:20:22Z",
+      "updated": "2026-11-19T18:22:25Z",
       "topics": []
     },
     {
@@ -2682,6 +2704,39 @@
       "topics": []
     },
     {
+      "name": "zcall-gui",
+      "url": "https://github.com/LIghtJUNction/zcall-gui",
+      "description": "Native Project Z control panel for the zcalld local AI gateway",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:09:31Z",
+      "topics": []
+    },
+    {
+      "name": "zcalld",
+      "url": "https://github.com/LIghtJUNction/zcalld",
+      "description": "Compact Linux-native AI gateway powered by zcall and zplugin",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:10:27Z",
+      "topics": []
+    },
+    {
+      "name": "zcalld-compat",
+      "url": "https://github.com/LIghtJUNction/zcalld-compat",
+      "description": "Optional Magpie-compatible privacy and community plugin adapters for zcalld",
+      "language": "Go",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:22:10Z",
+      "topics": []
+    },
+    {
       "name": "zclap",
       "url": "https://github.com/LIghtJUNction/zclap",
       "description": "Small, allocation-free command-line parsing with borrowed events",
@@ -2719,6 +2774,17 @@
       ]
     },
     {
+      "name": "zdot",
+      "url": "https://github.com/LIghtJUNction/zdot",
+      "description": "A no_std Linux dotfiles manager built on Project Z",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T19:27:24Z",
+      "topics": []
+    },
+    {
       "name": "zdwire",
       "url": "https://github.com/LIghtJUNction/zdwire",
       "description": "",
@@ -2744,6 +2810,28 @@
       ]
     },
     {
+      "name": "zgpui",
+      "url": "https://github.com/LIghtJUNction/zgpui",
+      "description": "Platform-independent no_std UI scenes, layout and renderer contracts for Project Z",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T21:56:43Z",
+      "topics": []
+    },
+    {
+      "name": "zgraphics",
+      "url": "https://github.com/LIghtJUNction/zgraphics",
+      "description": "Bounded no_std Kitty graphics and Sixel processing with host-owned rendering",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:23:43Z",
+      "topics": []
+    },
+    {
       "name": "zharness",
       "url": "https://github.com/LIghtJUNction/zharness",
       "description": "",
@@ -2751,7 +2839,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-15T09:50:48Z",
+      "updated": "2026-11-19T11:40:00Z",
       "topics": []
     },
     {
@@ -2774,6 +2862,17 @@
       "fork": false,
       "archived": false,
       "updated": "2024-10-27T12:19:25Z",
+      "topics": []
+    },
+    {
+      "name": "zinput",
+      "url": "https://github.com/LIghtJUNction/zinput",
+      "description": "Bounded no_std input-method core, native Linux event decoding and terminal codecs for Project Z",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:22:30Z",
       "topics": []
     },
     {
@@ -2817,7 +2916,18 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-13T07:11:18Z",
+      "updated": "2026-11-19T22:07:49Z",
+      "topics": []
+    },
+    {
+      "name": "zpty",
+      "url": "https://github.com/LIghtJUNction/zpty",
+      "description": "Native no_std PTY and ConPTY ownership for Linux, macOS and Windows",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:25:14Z",
       "topics": []
     },
     {
@@ -2829,6 +2939,17 @@
       "fork": false,
       "archived": false,
       "updated": "2026-11-11T02:46:33Z",
+      "topics": []
+    },
+    {
+      "name": "zshard",
+      "url": "https://github.com/LIghtJUNction/zshard",
+      "description": "A lean native zsh framework with lazy plugins and explicit AI context",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:26:00Z",
       "topics": []
     },
     {
@@ -2861,7 +2982,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:39:13Z",
+      "updated": "2026-11-19T21:37:18Z",
       "topics": []
     },
     {
@@ -2869,22 +2990,62 @@
       "url": "https://github.com/LIghtJUNction/ztty",
       "description": "A lean no_std Rust terminal for Linux, built on Project Z.",
       "language": "Rust",
-      "stars": 1,
+      "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T21:57:25Z",
+      "updated": "2026-11-19T22:15:56Z",
       "topics": []
     },
     {
-      "name": "ztui",
-      "url": "https://github.com/LIghtJUNction/ztui",
+      "name": "ztuio",
+      "url": "https://github.com/LIghtJUNction/ztuio",
       "description": "Dependency-free no_std text layout, terminal geometry, and ANSI frame-diff primitives.",
       "language": "Rust",
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-18T16:15:56Z",
+      "updated": "2026-11-19T21:47:55Z",
       "topics": []
+    },
+    {
+      "name": "ztype",
+      "url": "https://github.com/LIghtJUNction/ztype",
+      "description": "Native multilingual composition application built on zinput and Project Z.",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:13:23Z",
+      "topics": []
+    },
+    {
+      "name": "zui",
+      "url": "https://github.com/LIghtJUNction/zui",
+      "description": "Small native GPU UI primitives for Project Z, without third-party Rust crates",
+      "language": "C",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:18:08Z",
+      "topics": []
+    },
+    {
+      "name": "zuse",
+      "url": "https://github.com/LIghtJUNction/zuse",
+      "description": "Agent-native computer use shell and Rust library. Project Z: small core, native desktop control, MCP and human handoff.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-19T22:14:46Z",
+      "topics": [
+        "android",
+        "computer-use",
+        "linux",
+        "mcp",
+        "project-z",
+        "rust"
+      ]
     },
     {
       "name": "zvte",
