@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-20T22:28:44.742722+00:00",
+  "synced_at": "2026-11-21T22:28:06.423148+00:00",
   "projects": [
     {
       "name": "2048",
@@ -545,6 +545,17 @@
       "topics": []
     },
     {
+      "name": "bilibilive",
+      "url": "https://github.com/LIghtJUNction/bilibilive",
+      "description": "Native Bilibili streaming studio in Rust with CLI, MCP, zuse automation and zgpui.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-21T22:07:44Z",
+      "topics": []
+    },
+    {
       "name": "binance-cli",
       "url": "https://github.com/LIghtJUNction/binance-cli",
       "description": "Simple CLI to Binance API",
@@ -692,7 +703,7 @@
       "url": "https://github.com/LIghtJUNction/coolapk-cli",
       "description": "Standalone Rust CLI for Coolapk — search, browse, authenticate and post with JSON output",
       "language": "Rust",
-      "stars": 4,
+      "stars": 5,
       "fork": false,
       "archived": false,
       "updated": "2026-11-20T13:44:56Z",
@@ -744,7 +755,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T14:03:42Z",
+      "updated": "2026-11-21T00:08:34Z",
       "topics": []
     },
     {
@@ -807,7 +818,7 @@
       "url": "https://github.com/LIghtJUNction/douyin",
       "description": "抖音非官方sdk/命令行工具",
       "language": "Rust",
-      "stars": 5,
+      "stars": 6,
       "fork": false,
       "archived": false,
       "updated": "2026-11-19T16:34:25Z",
@@ -1252,7 +1263,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-19T22:27:54Z",
+      "updated": "2026-11-20T22:28:45Z",
       "topics": []
     },
     {
@@ -1574,7 +1585,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-19T22:34:52Z",
+      "updated": "2026-11-20T22:35:00Z",
       "topics": []
     },
     {
@@ -1585,7 +1596,7 @@
       "stars": 236,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T14:19:13Z",
+      "updated": "2026-11-21T21:38:47Z",
       "topics": [
         "recipkg"
       ]
@@ -1598,7 +1609,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T13:12:24Z",
+      "updated": "2026-11-21T21:38:28Z",
       "topics": []
     },
     {
@@ -1624,7 +1635,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:29:23Z",
+      "updated": "2026-11-21T12:29:52Z",
       "topics": []
     },
     {
@@ -1752,7 +1763,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:41:45Z",
+      "updated": "2026-11-21T21:35:16Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1892,7 +1903,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T19:53:55Z",
+      "updated": "2026-11-21T22:24:41Z",
       "topics": []
     },
     {
@@ -1933,10 +1944,10 @@
       "url": "https://github.com/LIghtJUNction/omarchy-project-bees",
       "description": "Native Omarchy dashboard for Git repository deduplication on Btrfs",
       "language": "QML",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T19:07:36Z",
+      "updated": "2026-11-21T14:37:56Z",
       "topics": []
     },
     {
@@ -1997,7 +2008,7 @@
       "stars": 25,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:39:16Z",
+      "updated": "2026-11-21T20:14:54Z",
       "topics": [
         "mcp",
         "oni"
@@ -2229,9 +2240,9 @@
       "description": "Best-Effort Extent-Same, a btrfs dedupe agent",
       "language": "C++",
       "stars": 1,
-      "fork": true,
+      "fork": false,
       "archived": false,
-      "updated": "2026-11-20T19:07:42Z",
+      "updated": "2026-11-21T20:09:01Z",
       "topics": []
     },
     {
@@ -2242,7 +2253,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T21:53:35Z",
+      "updated": "2026-11-21T22:26:32Z",
       "topics": []
     },
     {
@@ -2253,7 +2264,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T10:56:31Z",
+      "updated": "2026-11-21T22:27:32Z",
       "topics": []
     },
     {
@@ -2431,7 +2442,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T02:27:54Z",
+      "updated": "2026-11-21T02:27:59Z",
       "topics": []
     },
     {
@@ -2503,15 +2514,26 @@
     {
       "name": "ssmcp",
       "url": "https://github.com/LIghtJUNction/ssmcp",
-      "description": "👀remote",
+      "description": "remote harness",
       "language": "Rust",
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:21:16Z",
+      "updated": "2026-11-21T22:18:33Z",
       "topics": [
         "agent"
       ]
+    },
+    {
+      "name": "ssmcp-tools",
+      "url": "https://github.com/LIghtJUNction/ssmcp-tools",
+      "description": "Editable JavaScript helper tools for SSMCP code mode",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-21T21:24:50Z",
+      "topics": []
     },
     {
       "name": "StartLive",
@@ -2667,7 +2689,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:22:15Z",
+      "updated": "2026-11-21T18:20:05Z",
       "topics": []
     },
     {
@@ -2744,7 +2766,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T21:55:05Z",
+      "updated": "2026-11-21T18:45:37Z",
       "topics": []
     },
     {
@@ -2755,7 +2777,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:08:19Z",
+      "updated": "2026-11-21T20:33:03Z",
       "topics": []
     },
     {
@@ -2777,7 +2799,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:27:56Z",
+      "updated": "2026-11-21T20:33:06Z",
       "topics": []
     },
     {
@@ -2792,6 +2814,17 @@
       "topics": []
     },
     {
+      "name": "zchat",
+      "url": "https://github.com/LIghtJUNction/zchat",
+      "description": "AI-native messaging workspace built with zgpui, zplugin and unified MCP interfaces",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-21T20:23:09Z",
+      "topics": []
+    },
+    {
       "name": "zclap",
       "url": "https://github.com/LIghtJUNction/zclap",
       "description": "Small, allocation-free command-line parsing with borrowed events",
@@ -2799,7 +2832,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-11T02:49:03Z",
+      "updated": "2026-11-21T20:08:14Z",
       "topics": []
     },
     {
@@ -2810,7 +2843,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T17:47:55Z",
+      "updated": "2026-11-21T20:09:20Z",
       "topics": []
     },
     {
@@ -2821,7 +2854,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-15T09:53:46Z",
+      "updated": "2026-11-21T12:09:05Z",
       "topics": [
         "ai",
         "api",
@@ -2847,7 +2880,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:30:14Z",
+      "updated": "2026-11-21T19:18:29Z",
       "topics": []
     },
     {
@@ -2894,7 +2927,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T14:49:13Z",
+      "updated": "2026-11-21T19:46:48Z",
       "topics": []
     },
     {
@@ -2927,7 +2960,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:00:40Z",
+      "updated": "2026-11-21T21:42:18Z",
       "topics": []
     },
     {
@@ -2938,7 +2971,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-12T15:49:01Z",
+      "updated": "2026-11-21T20:09:26Z",
       "topics": []
     },
     {
@@ -2960,7 +2993,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T09:41:01Z",
+      "updated": "2026-11-21T20:09:32Z",
       "topics": []
     },
     {
@@ -2971,7 +3004,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:00:37Z",
+      "updated": "2026-11-21T09:19:45Z",
       "topics": []
     },
     {
@@ -2993,7 +3026,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T17:57:24Z",
+      "updated": "2026-11-21T20:31:09Z",
       "topics": []
     },
     {
@@ -3004,8 +3037,24 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:00:43Z",
+      "updated": "2026-11-21T20:30:19Z",
       "topics": []
+    },
+    {
+      "name": "zmem",
+      "url": "https://github.com/LIghtJUNction/zmem",
+      "description": "Project Z pressure-aware Linux memory and swap manager. Rust, cgroup v2, zram, reversible system integration.",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-21T22:19:46Z",
+      "topics": [
+        "linux",
+        "memory-management",
+        "rust",
+        "swap"
+      ]
     },
     {
       "name": "zmime",
@@ -3019,14 +3068,25 @@
       "topics": []
     },
     {
-      "name": "zplugin",
-      "url": "https://github.com/LIghtJUNction/zplugin",
-      "description": "",
+      "name": "zobs",
+      "url": "https://github.com/LIghtJUNction/zobs",
+      "description": "Lightweight Project Z recording studio with zgpui, CLI and MCP",
       "language": "Rust",
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T17:47:52Z",
+      "updated": "2026-11-21T19:09:30Z",
+      "topics": []
+    },
+    {
+      "name": "zplugin",
+      "url": "https://github.com/LIghtJUNction/zplugin",
+      "description": "",
+      "language": "Rust",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-21T21:38:29Z",
       "topics": []
     },
     {
@@ -3048,7 +3108,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:04:17Z",
+      "updated": "2026-11-21T20:09:46Z",
       "topics": []
     },
     {
@@ -3114,7 +3174,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T18:33:11Z",
+      "updated": "2026-11-21T20:17:33Z",
       "topics": []
     },
     {
@@ -3125,7 +3185,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:27:24Z",
+      "updated": "2026-11-21T22:10:36Z",
       "topics": []
     },
     {
@@ -3147,7 +3207,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:18:22Z",
+      "updated": "2026-11-21T20:39:54Z",
       "topics": []
     },
     {
@@ -3158,7 +3218,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:12:44Z",
+      "updated": "2026-11-21T20:36:28Z",
       "topics": [
         "android",
         "computer-use",
@@ -3166,6 +3226,31 @@
         "mcp",
         "project-z",
         "rust"
+      ]
+    },
+    {
+      "name": "zuse-skills",
+      "url": "https://github.com/LIghtJUNction/zuse-skills",
+      "description": "Composable, non-preemptive GUI skills for zuse",
+      "language": "Python",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-21T20:10:02Z",
+      "topics": []
+    },
+    {
+      "name": "zuse-std",
+      "url": "https://github.com/LIghtJUNction/zuse-std",
+      "description": "Reusable Zuse modules for desktop automation, drawing, input and timing",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-21T17:31:57Z",
+      "topics": [
+        "zuse",
+        "zuse-package"
       ]
     },
     {
