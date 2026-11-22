@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-21T22:28:06.423148+00:00",
+  "synced_at": "2026-11-22T22:28:02.364277+00:00",
   "projects": [
     {
       "name": "2048",
@@ -825,6 +825,17 @@
       "topics": []
     },
     {
+      "name": "douyin-uid-filter",
+      "url": "https://github.com/LIghtJUNction/douyin-uid-filter",
+      "description": "Local LSPosed/Xposed filtering of Douyin video comments by numeric UID",
+      "language": "Java",
+      "stars": 1,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-22T14:30:43Z",
+      "topics": []
+    },
+    {
       "name": "draw-project-meme",
       "url": "https://github.com/LIghtJUNction/draw-project-meme",
       "description": "draw-project-meme skill",
@@ -1038,7 +1049,7 @@
       "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-19T23:47:25Z",
+      "updated": "2026-11-22T14:37:46Z",
       "topics": []
     },
     {
@@ -1263,7 +1274,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:28:45Z",
+      "updated": "2026-11-21T22:28:07Z",
       "topics": []
     },
     {
@@ -1464,7 +1475,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-19T17:01:25Z",
+      "updated": "2026-11-22T18:41:36Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1585,7 +1596,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:35:00Z",
+      "updated": "2026-11-21T22:34:57Z",
       "topics": []
     },
     {
@@ -1596,7 +1607,7 @@
       "stars": 236,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T21:38:47Z",
+      "updated": "2026-11-22T18:13:27Z",
       "topics": [
         "recipkg"
       ]
@@ -1609,7 +1620,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T21:38:28Z",
+      "updated": "2026-11-21T22:29:24Z",
       "topics": []
     },
     {
@@ -1635,7 +1646,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T12:29:52Z",
+      "updated": "2026-11-22T06:32:44Z",
       "topics": []
     },
     {
@@ -1763,7 +1774,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T21:35:16Z",
+      "updated": "2026-11-22T05:45:06Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1903,7 +1914,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T22:24:41Z",
+      "updated": "2026-11-22T18:49:17Z",
       "topics": []
     },
     {
@@ -2005,7 +2016,7 @@
       "url": "https://github.com/LIghtJUNction/OniMods",
       "description": "oxygen not included",
       "language": "C#",
-      "stars": 25,
+      "stars": 26,
       "fork": false,
       "archived": false,
       "updated": "2026-11-21T20:14:54Z",
@@ -2242,7 +2253,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:09:01Z",
+      "updated": "2026-11-22T16:54:43Z",
       "topics": []
     },
     {
@@ -2253,7 +2264,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T22:26:32Z",
+      "updated": "2026-11-22T16:59:04Z",
       "topics": []
     },
     {
@@ -2261,10 +2272,10 @@
       "url": "https://github.com/LIghtJUNction/project-z-site",
       "description": "Project Z — public project introduction and catalog.",
       "language": "HTML",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T22:27:32Z",
+      "updated": "2026-11-22T12:19:16Z",
       "topics": []
     },
     {
@@ -2442,7 +2453,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T02:27:59Z",
+      "updated": "2026-11-22T02:28:31Z",
       "topics": []
     },
     {
@@ -2519,7 +2530,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T22:18:33Z",
+      "updated": "2026-11-22T21:19:07Z",
       "topics": [
         "agent"
       ]
@@ -2532,7 +2543,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T21:24:50Z",
+      "updated": "2026-11-22T16:55:55Z",
       "topics": []
     },
     {
@@ -2689,7 +2700,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T18:20:05Z",
+      "updated": "2026-11-22T18:20:48Z",
       "topics": []
     },
     {
@@ -2759,6 +2770,17 @@
       "topics": []
     },
     {
+      "name": "zbridge",
+      "url": "https://github.com/LIghtJUNction/zbridge",
+      "description": "Bounded, authorized frontend protocol for shared Project Z application cores",
+      "language": "Rust",
+      "stars": 2,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-22T15:15:31Z",
+      "topics": []
+    },
+    {
       "name": "zcall",
       "url": "https://github.com/LIghtJUNction/zcall",
       "description": "A protocol-independent, caller-buffered AI call kernel for harness software.",
@@ -2777,7 +2799,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:33:03Z",
+      "updated": "2026-11-22T19:07:11Z",
       "topics": []
     },
     {
@@ -2799,7 +2821,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:33:06Z",
+      "updated": "2026-11-22T19:07:33Z",
       "topics": []
     },
     {
@@ -2821,7 +2843,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:23:09Z",
+      "updated": "2026-11-22T06:10:17Z",
       "topics": []
     },
     {
@@ -2927,7 +2949,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T19:46:48Z",
+      "updated": "2026-11-22T16:05:54Z",
       "topics": []
     },
     {
@@ -2960,7 +2982,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T21:42:18Z",
+      "updated": "2026-11-22T05:54:42Z",
       "topics": []
     },
     {
@@ -3026,7 +3048,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:31:09Z",
+      "updated": "2026-11-22T18:44:56Z",
       "topics": []
     },
     {
@@ -3048,7 +3070,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T22:19:46Z",
+      "updated": "2026-11-22T16:49:56Z",
       "topics": [
         "linux",
         "memory-management",
@@ -3174,7 +3196,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:17:33Z",
+      "updated": "2026-11-22T18:54:06Z",
       "topics": []
     },
     {
@@ -3185,7 +3207,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T22:10:36Z",
+      "updated": "2026-11-22T19:02:55Z",
       "topics": []
     },
     {
@@ -3207,7 +3229,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:39:54Z",
+      "updated": "2026-11-22T18:46:00Z",
       "topics": []
     },
     {
@@ -3218,7 +3240,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T20:36:28Z",
+      "updated": "2026-11-22T14:46:41Z",
       "topics": [
         "android",
         "computer-use",
