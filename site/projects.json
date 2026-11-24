@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-23T22:28:13.394893+00:00",
+  "synced_at": "2026-11-24T22:28:19.264326+00:00",
   "projects": [
     {
       "name": "2048",
@@ -755,7 +755,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T00:08:34Z",
+      "updated": "2026-11-24T00:09:17Z",
       "topics": []
     },
     {
@@ -1263,7 +1263,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-22T22:28:03Z",
+      "updated": "2026-11-23T22:28:14Z",
       "topics": []
     },
     {
@@ -1464,7 +1464,7 @@
       "stars": 3,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-22T18:41:36Z",
+      "updated": "2026-11-24T20:14:42Z",
       "topics": [
         "agent",
         "agent-skills",
@@ -1585,7 +1585,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-22T22:34:48Z",
+      "updated": "2026-11-23T22:35:06Z",
       "topics": []
     },
     {
@@ -1596,7 +1596,7 @@
       "stars": 236,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-22T18:13:27Z",
+      "updated": "2026-11-24T06:26:55Z",
       "topics": [
         "recipkg"
       ]
@@ -1609,7 +1609,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T06:44:07Z",
+      "updated": "2026-11-24T06:25:26Z",
       "topics": []
     },
     {
@@ -1903,7 +1903,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T18:22:36Z",
+      "updated": "2026-11-24T20:56:49Z",
       "topics": []
     },
     {
@@ -1947,7 +1947,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T14:37:56Z",
+      "updated": "2026-11-24T07:49:17Z",
       "topics": []
     },
     {
@@ -2242,7 +2242,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-22T16:54:43Z",
+      "updated": "2026-11-24T07:51:26Z",
       "topics": []
     },
     {
@@ -2253,7 +2253,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T18:53:39Z",
+      "updated": "2026-11-24T20:59:18Z",
       "topics": []
     },
     {
@@ -2442,7 +2442,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T02:30:34Z",
+      "updated": "2026-11-24T02:29:23Z",
       "topics": []
     },
     {
@@ -2516,10 +2516,10 @@
       "url": "https://github.com/LIghtJUNction/ssmcp",
       "description": "remote harness",
       "language": "Rust",
-      "stars": 4,
+      "stars": 5,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T22:18:22Z",
+      "updated": "2026-11-24T20:54:53Z",
       "topics": [
         "agent"
       ]
@@ -2689,7 +2689,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T18:21:33Z",
+      "updated": "2026-11-24T18:21:24Z",
       "topics": []
     },
     {
@@ -2799,7 +2799,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T19:01:52Z",
+      "updated": "2026-11-24T18:23:58Z",
       "topics": []
     },
     {
@@ -2821,7 +2821,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T18:47:26Z",
+      "updated": "2026-11-24T19:12:14Z",
       "topics": []
     },
     {
@@ -2982,7 +2982,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:40:46Z",
+      "updated": "2026-11-24T19:07:37Z",
       "topics": []
     },
     {
@@ -3026,7 +3026,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:35:10Z",
+      "updated": "2026-11-24T19:07:19Z",
       "topics": []
     },
     {
@@ -3048,7 +3048,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T19:01:48Z",
+      "updated": "2026-11-24T18:55:38Z",
       "topics": []
     },
     {
@@ -3108,7 +3108,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:23:09Z",
+      "updated": "2026-11-24T19:04:19Z",
       "topics": []
     },
     {
@@ -3127,7 +3127,7 @@
       "url": "https://github.com/LIghtJUNction/zrc",
       "description": "Native configuration framework for oh-my-ztty, deployed with zdot",
       "language": "Python",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
       "updated": "2026-11-23T17:23:30Z",
@@ -3141,7 +3141,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T15:04:37Z",
+      "updated": "2026-11-24T20:52:36Z",
       "topics": []
     },
     {
@@ -3207,7 +3207,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T19:01:43Z",
+      "updated": "2026-11-24T19:08:06Z",
       "topics": []
     },
     {
@@ -3218,7 +3218,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T18:21:14Z",
+      "updated": "2026-11-24T19:26:50Z",
       "topics": []
     },
     {
@@ -3240,7 +3240,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:42:56Z",
+      "updated": "2026-11-24T19:11:37Z",
       "topics": []
     },
     {
@@ -3251,7 +3251,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:23:19Z",
+      "updated": "2026-11-24T19:07:19Z",
       "topics": [
         "android",
         "computer-use",
