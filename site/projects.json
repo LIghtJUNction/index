@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-24T22:28:19.264326+00:00",
+  "synced_at": "2026-11-25T22:28:05.330704+00:00",
   "projects": [
     {
       "name": "2048",
@@ -559,11 +559,11 @@
       "name": "binance-cli",
       "url": "https://github.com/LIghtJUNction/binance-cli",
       "description": "Simple CLI to Binance API",
-      "language": "Other",
-      "stars": 0,
+      "language": "Rust",
+      "stars": 1,
       "fork": true,
       "archived": false,
-      "updated": "2026-11-06T07:46:00Z",
+      "updated": "2026-11-25T10:07:21Z",
       "topics": []
     },
     {
@@ -714,7 +714,7 @@
       "url": "https://github.com/LIghtJUNction/coolapk-skills",
       "description": "从酷安技术资料整理的通用技能：版本、机型、操作、公开资源与证据边界；不分发原始采集数据",
       "language": "Other",
-      "stars": 3,
+      "stars": 4,
       "fork": false,
       "archived": false,
       "updated": "2026-11-15T11:55:28Z",
@@ -818,7 +818,7 @@
       "url": "https://github.com/LIghtJUNction/douyin",
       "description": "抖音非官方sdk/命令行工具",
       "language": "Rust",
-      "stars": 6,
+      "stars": 7,
       "fork": false,
       "archived": false,
       "updated": "2026-11-23T18:31:10Z",
@@ -832,7 +832,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T11:27:55Z",
+      "updated": "2026-11-25T08:44:25Z",
       "topics": []
     },
     {
@@ -1263,7 +1263,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T22:28:14Z",
+      "updated": "2026-11-24T22:28:20Z",
       "topics": []
     },
     {
@@ -1374,6 +1374,17 @@
       "fork": false,
       "archived": false,
       "updated": "2026-11-20T13:11:01Z",
+      "topics": []
+    },
+    {
+      "name": "layerfs",
+      "url": "https://github.com/LIghtJUNction/layerfs",
+      "description": "Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, commit what changed as deduplicated checkpoints, then branch, rewind or merge. Try it with LayerFS × DSH.",
+      "language": "Other",
+      "stars": 0,
+      "fork": true,
+      "archived": false,
+      "updated": "2026-11-25T09:56:40Z",
       "topics": []
     },
     {
@@ -1578,6 +1589,17 @@
       "topics": []
     },
     {
+      "name": "magicbox-core",
+      "url": "https://github.com/LIghtJUNction/magicbox-core",
+      "description": "Rust proxy core with TOML configuration, encrypted DNS and scoped TCP forwarding",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-25T22:25:15Z",
+      "topics": []
+    },
+    {
       "name": "MagicMihomo",
       "url": "https://github.com/LIghtJUNction/MagicMihomo",
       "description": "MagicNet-mihomo",
@@ -1585,7 +1607,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T22:35:06Z",
+      "updated": "2026-11-24T22:35:19Z",
       "topics": []
     },
     {
@@ -1593,10 +1615,10 @@
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "description": "Consciously set all groups to block",
       "language": "Python",
-      "stars": 236,
+      "stars": 238,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T06:26:55Z",
+      "updated": "2026-11-25T08:08:57Z",
       "topics": [
         "recipkg"
       ]
@@ -1609,7 +1631,18 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T06:25:26Z",
+      "updated": "2026-11-25T06:55:08Z",
+      "topics": []
+    },
+    {
+      "name": "magicnet-astra-pro",
+      "url": "https://github.com/LIghtJUNction/magicnet-astra-pro",
+      "description": "A small KAM Android proxy module with shell management and a native WebUI",
+      "language": "Python",
+      "stars": 0,
+      "fork": false,
+      "archived": false,
+      "updated": "2026-11-25T22:25:18Z",
       "topics": []
     },
     {
@@ -1635,7 +1668,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-22T06:32:44Z",
+      "updated": "2026-11-25T21:15:23Z",
       "topics": []
     },
     {
@@ -1763,7 +1796,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:37:32Z",
+      "updated": "2026-11-25T18:50:04Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1903,7 +1936,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T20:56:49Z",
+      "updated": "2026-11-25T17:22:09Z",
       "topics": []
     },
     {
@@ -2008,7 +2041,7 @@
       "stars": 26,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:35:47Z",
+      "updated": "2026-11-25T17:13:24Z",
       "topics": [
         "mcp",
         "oni"
@@ -2242,7 +2275,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T07:51:26Z",
+      "updated": "2026-11-25T10:45:38Z",
       "topics": []
     },
     {
@@ -2253,7 +2286,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T20:59:18Z",
+      "updated": "2026-11-25T22:20:40Z",
       "topics": []
     },
     {
@@ -2264,7 +2297,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-22T12:19:16Z",
+      "updated": "2026-11-25T17:33:48Z",
       "topics": []
     },
     {
@@ -2442,7 +2475,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T02:29:23Z",
+      "updated": "2026-11-25T02:29:33Z",
       "topics": []
     },
     {
@@ -2516,10 +2549,10 @@
       "url": "https://github.com/LIghtJUNction/ssmcp",
       "description": "remote harness",
       "language": "Rust",
-      "stars": 5,
+      "stars": 6,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T20:54:53Z",
+      "updated": "2026-11-25T21:29:43Z",
       "topics": [
         "agent"
       ]
@@ -2532,7 +2565,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T10:19:31Z",
+      "updated": "2026-11-25T06:07:34Z",
       "topics": []
     },
     {
@@ -2689,7 +2722,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T18:21:24Z",
+      "updated": "2026-11-25T18:21:33Z",
       "topics": []
     },
     {
@@ -2799,7 +2832,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T18:23:58Z",
+      "updated": "2026-11-25T17:13:20Z",
       "topics": []
     },
     {
@@ -2821,7 +2854,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T19:12:14Z",
+      "updated": "2026-11-25T17:14:33Z",
       "topics": []
     },
     {
@@ -2939,6 +2972,17 @@
       "fork": false,
       "archived": false,
       "updated": "2026-11-20T17:49:41Z",
+      "topics": []
+    },
+    {
+      "name": "zgem",
+      "url": "https://github.com/LIghtJUNction/zgem",
+      "description": "Project moved to https://github.com/LIghtJUNction/ztok",
+      "language": "Other",
+      "stars": 0,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-11-25T21:20:38Z",
       "topics": []
     },
     {
@@ -3090,17 +3134,6 @@
       "topics": []
     },
     {
-      "name": "zobs",
-      "url": "https://github.com/LIghtJUNction/zobs",
-      "description": "Lightweight Project Z recording studio with zgpui, CLI and MCP",
-      "language": "Rust",
-      "stars": 0,
-      "fork": false,
-      "archived": false,
-      "updated": "2026-11-23T19:16:12Z",
-      "topics": []
-    },
-    {
       "name": "zplugin",
       "url": "https://github.com/LIghtJUNction/zplugin",
       "description": "",
@@ -3108,7 +3141,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T19:04:19Z",
+      "updated": "2026-11-25T17:27:24Z",
       "topics": []
     },
     {
@@ -3141,7 +3174,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T20:52:36Z",
+      "updated": "2026-11-25T17:53:09Z",
       "topics": []
     },
     {
@@ -3211,6 +3244,17 @@
       "topics": []
     },
     {
+      "name": "ztok",
+      "url": "https://github.com/LIghtJUNction/ztok",
+      "description": "Archived lossless compression using a ranked Gemma 4 vocabulary and Zstandard",
+      "language": "Rust",
+      "stars": 0,
+      "fork": false,
+      "archived": true,
+      "updated": "2026-11-25T22:21:11Z",
+      "topics": []
+    },
+    {
       "name": "ztty",
       "url": "https://github.com/LIghtJUNction/ztty",
       "description": "A lean no_std Rust terminal for Linux, built on Project Z.",
@@ -3218,7 +3262,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T19:26:50Z",
+      "updated": "2026-11-25T17:00:01Z",
       "topics": []
     },
     {
@@ -3251,7 +3295,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T19:07:19Z",
+      "updated": "2026-11-25T20:22:47Z",
       "topics": [
         "android",
         "computer-use",
