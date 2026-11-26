@@ -1,6 +1,6 @@
 {
   "owner": "LIghtJUNction",
-  "synced_at": "2026-11-25T22:28:05.330704+00:00",
+  "synced_at": "2026-11-26T22:28:10.421450+00:00",
   "projects": [
     {
       "name": "2048",
@@ -549,10 +549,10 @@
       "url": "https://github.com/LIghtJUNction/bilibilive",
       "description": "Native Bilibili streaming studio in Rust with CLI, MCP, zuse automation and zgpui.",
       "language": "Rust",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-21T22:07:44Z",
+      "updated": "2026-11-26T09:27:47Z",
       "topics": []
     },
     {
@@ -703,7 +703,7 @@
       "url": "https://github.com/LIghtJUNction/coolapk-cli",
       "description": "Standalone Rust CLI for Coolapk — search, browse, authenticate and post with JSON output",
       "language": "Rust",
-      "stars": 6,
+      "stars": 7,
       "fork": false,
       "archived": false,
       "updated": "2026-11-20T13:44:56Z",
@@ -727,7 +727,7 @@
       "language": "Other",
       "stars": 4,
       "fork": false,
-      "archived": false,
+      "archived": true,
       "updated": "2026-11-08T16:28:11Z",
       "topics": [
         "agent",
@@ -821,7 +821,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T18:31:10Z",
+      "updated": "2026-11-26T09:38:01Z",
       "topics": []
     },
     {
@@ -1263,7 +1263,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T22:28:20Z",
+      "updated": "2026-11-25T22:28:06Z",
       "topics": []
     },
     {
@@ -1578,25 +1578,14 @@
       "topics": []
     },
     {
-      "name": "MagicBox",
-      "url": "https://github.com/LIghtJUNction/MagicBox",
-      "description": "ohhhh.",
-      "language": "Kotlin",
-      "stars": 2,
-      "fork": false,
-      "archived": false,
-      "updated": "2026-11-20T16:49:57Z",
-      "topics": []
-    },
-    {
-      "name": "magicbox-core",
-      "url": "https://github.com/LIghtJUNction/magicbox-core",
+      "name": "magicbox",
+      "url": "https://github.com/LIghtJUNction/magicbox",
       "description": "Rust proxy core with TOML configuration, encrypted DNS and scoped TCP forwarding",
       "language": "Rust",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T22:25:15Z",
+      "updated": "2026-11-26T07:08:54Z",
       "topics": []
     },
     {
@@ -1607,7 +1596,7 @@
       "stars": 11,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T22:35:19Z",
+      "updated": "2026-11-25T22:34:49Z",
       "topics": []
     },
     {
@@ -1618,7 +1607,7 @@
       "stars": 238,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T08:08:57Z",
+      "updated": "2026-11-26T10:31:06Z",
       "topics": [
         "recipkg"
       ]
@@ -1631,7 +1620,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T06:55:08Z",
+      "updated": "2026-11-26T10:27:52Z",
       "topics": []
     },
     {
@@ -1639,10 +1628,10 @@
       "url": "https://github.com/LIghtJUNction/magicnet-astra-pro",
       "description": "A small KAM Android proxy module with shell management and a native WebUI",
       "language": "Python",
-      "stars": 0,
+      "stars": 2,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T22:25:18Z",
+      "updated": "2026-11-26T08:17:32Z",
       "topics": []
     },
     {
@@ -1668,7 +1657,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T21:15:23Z",
+      "updated": "2026-11-26T18:29:44Z",
       "topics": []
     },
     {
@@ -1796,7 +1785,7 @@
       "stars": 7,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T18:50:04Z",
+      "updated": "2026-11-26T08:31:29Z",
       "topics": [
         "dkms",
         "kernel-modules",
@@ -1835,7 +1824,7 @@
       "stars": 12,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T00:16:43Z",
+      "updated": "2026-11-26T20:07:31Z",
       "topics": [
         "sing-box"
       ]
@@ -1936,7 +1925,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T17:22:09Z",
+      "updated": "2026-11-26T15:28:28Z",
       "topics": []
     },
     {
@@ -2286,7 +2275,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T22:20:40Z",
+      "updated": "2026-11-26T20:02:41Z",
       "topics": []
     },
     {
@@ -2297,7 +2286,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T17:33:48Z",
+      "updated": "2026-11-26T07:14:09Z",
       "topics": []
     },
     {
@@ -2552,7 +2541,7 @@
       "stars": 6,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T21:29:43Z",
+      "updated": "2026-11-26T19:33:24Z",
       "topics": [
         "agent"
       ]
@@ -2722,7 +2711,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T18:21:33Z",
+      "updated": "2026-11-26T18:22:12Z",
       "topics": []
     },
     {
@@ -2821,7 +2810,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:07:20Z",
+      "updated": "2026-11-26T20:51:25Z",
       "topics": []
     },
     {
@@ -2832,7 +2821,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T17:13:20Z",
+      "updated": "2026-11-26T21:48:06Z",
       "topics": []
     },
     {
@@ -2854,7 +2843,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T17:14:33Z",
+      "updated": "2026-11-26T22:02:36Z",
       "topics": []
     },
     {
@@ -2865,7 +2854,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-20T22:23:19Z",
+      "updated": "2026-11-26T21:47:52Z",
       "topics": []
     },
     {
@@ -2909,7 +2898,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T16:58:25Z",
+      "updated": "2026-11-26T20:50:44Z",
       "topics": [
         "ai",
         "api",
@@ -2993,7 +2982,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T19:08:46Z",
+      "updated": "2026-11-26T14:36:15Z",
       "topics": []
     },
     {
@@ -3092,7 +3081,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T18:55:38Z",
+      "updated": "2026-11-26T14:54:26Z",
       "topics": []
     },
     {
@@ -3114,7 +3103,7 @@
       "stars": 0,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-23T17:15:03Z",
+      "updated": "2026-11-26T17:33:54Z",
       "topics": [
         "linux",
         "memory-management",
@@ -3174,7 +3163,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T17:53:09Z",
+      "updated": "2026-11-26T10:14:23Z",
       "topics": []
     },
     {
@@ -3240,7 +3229,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T19:08:06Z",
+      "updated": "2026-11-26T14:53:18Z",
       "topics": []
     },
     {
@@ -3262,7 +3251,7 @@
       "stars": 4,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T17:00:01Z",
+      "updated": "2026-11-26T14:57:21Z",
       "topics": []
     },
     {
@@ -3284,7 +3273,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-24T19:11:37Z",
+      "updated": "2026-11-26T14:46:57Z",
       "topics": []
     },
     {
@@ -3295,7 +3284,7 @@
       "stars": 1,
       "fork": false,
       "archived": false,
-      "updated": "2026-11-25T20:22:47Z",
+      "updated": "2026-11-26T16:33:41Z",
       "topics": [
         "android",
         "computer-use",
@@ -3306,22 +3295,11 @@
       ]
     },
     {
-      "name": "zuse-skills",
-      "url": "https://github.com/LIghtJUNction/zuse-skills",
-      "description": "Composable, non-preemptive GUI skills for zuse",
-      "language": "Python",
-      "stars": 1,
-      "fork": false,
-      "archived": false,
-      "updated": "2026-11-21T20:10:02Z",
-      "topics": []
-    },
-    {
       "name": "zuse-std",
       "url": "https://github.com/LIghtJUNction/zuse-std",
       "description": "Reusable Zuse modules for desktop automation, drawing, input and timing",
       "language": "Other",
-      "stars": 0,
+      "stars": 1,
       "fork": false,
       "archived": false,
       "updated": "2026-11-21T17:31:57Z",
